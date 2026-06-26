@@ -2,24 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hidden Japan Tokyo</title>
-    <link>http://localhost:1313/</link>
+    <link>https://hidden-japan.tokyo/</link>
     <description>Recent content on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hidden-japan.tokyo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Temples Japan: 5 Off-the-Beaten-Path Tohoku Shrines Worth the Trip North</title>
+      <link>https://hidden-japan.tokyo/posts/tohoku-temples/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/posts/tohoku-temples/</guid>
+      <description>Discover Tohoku&amp;#39;s most atmospheric hidden temples and shrines away from the crowds.</description>
+    </item>
+    <item>
+      <title>Hidden Waterfalls Japan: 5 Rural Japan Waterfalls Most Tourists Never Find</title>
+      <link>https://hidden-japan.tokyo/posts/hidden-waterfalls/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/posts/hidden-waterfalls/</guid>
+      <description>Discover Japan&amp;#39;s most beautiful hidden waterfalls that most tourists never find.</description>
+    </item>
+    <item>
+      <title>Rural Japan Food: 5 Local Japanese Food Experiences Worth Leaving the City For</title>
+      <link>https://hidden-japan.tokyo/posts/rural-food-japan/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/posts/rural-food-japan/</guid>
+      <description>Discover Japan&amp;#39;s most authentic rural food experiences away from the tourist trail.</description>
+    </item>
     <item>
       <title>Japan&#39;s Most Scenic Local Train Rides Away from the Crowds</title>
-      <link>http://localhost:1313/posts/scenic-train-rides/</link>
+      <link>https://hidden-japan.tokyo/posts/scenic-train-rides/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/scenic-train-rides/</guid>
+      <guid>https://hidden-japan.tokyo/posts/scenic-train-rides/</guid>
       <description>Discover Japan&amp;#39;s most beautiful local train journeys that most foreign visitors never find.</description>
     </item>
     <item>
       <title>5 Hidden Onsen Towns in Japan Away from the Crowds</title>
-      <link>http://localhost:1313/posts/hidden-onsen-towns/</link>
+      <link>https://hidden-japan.tokyo/posts/hidden-onsen-towns/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hidden-onsen-towns/</guid>
+      <guid>https://hidden-japan.tokyo/posts/hidden-onsen-towns/</guid>
       <description>Discover Japan&amp;#39;s most extraordinary hidden hot spring towns that most foreign visitors never find.</description>
     </item>
   </channel>

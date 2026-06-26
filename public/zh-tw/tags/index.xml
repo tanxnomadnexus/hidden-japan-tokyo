@@ -2,10 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Hidden Japan Tokyo</title>
-    <link>http://localhost:1313/zh-tw/tags/</link>
+    <link>https://hidden-japan.tokyo/zh-tw/tags/</link>
     <description>Recent content in Tags on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <atom:link href="http://localhost:1313/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hidden-japan.tokyo/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日本旅遊</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美食</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E7%BE%8E%E9%A3%9F/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E7%BE%8E%E9%A3%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鄉間美食</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E9%84%89%E9%96%93%E7%BE%8E%E9%A3%9F/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E9%84%89%E9%96%93%E7%BE%8E%E9%A3%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>隱藏景點</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E9%9A%B1%E8%97%8F%E6%99%AF%E9%BB%9E/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E9%9A%B1%E8%97%8F%E6%99%AF%E9%BB%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>瀑布</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E7%80%91%E5%B8%83/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E7%80%91%E5%B8%83/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

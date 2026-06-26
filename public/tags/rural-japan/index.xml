@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rural-Japan on Hidden Japan Tokyo</title>
-    <link>http://localhost:1313/tags/rural-japan/</link>
+    <link>https://hidden-japan.tokyo/tags/rural-japan/</link>
     <description>Recent content in Rural-Japan on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rural-japan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hidden-japan.tokyo/tags/rural-japan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden Waterfalls Japan: 5 Rural Japan Waterfalls Most Tourists Never Find</title>
+      <link>https://hidden-japan.tokyo/posts/hidden-waterfalls/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/posts/hidden-waterfalls/</guid>
+      <description>Discover Japan&amp;#39;s most beautiful hidden waterfalls that most tourists never find.</description>
+    </item>
+    <item>
+      <title>Rural Japan Food: 5 Local Japanese Food Experiences Worth Leaving the City For</title>
+      <link>https://hidden-japan.tokyo/posts/rural-food-japan/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/posts/rural-food-japan/</guid>
+      <description>Discover Japan&amp;#39;s most authentic rural food experiences away from the tourist trail.</description>
+    </item>
     <item>
       <title>Japan&#39;s Most Scenic Local Train Rides Away from the Crowds</title>
-      <link>http://localhost:1313/posts/scenic-train-rides/</link>
+      <link>https://hidden-japan.tokyo/posts/scenic-train-rides/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/scenic-train-rides/</guid>
+      <guid>https://hidden-japan.tokyo/posts/scenic-train-rides/</guid>
       <description>Discover Japan&amp;#39;s most beautiful local train journeys that most foreign visitors never find.</description>
     </item>
   </channel>

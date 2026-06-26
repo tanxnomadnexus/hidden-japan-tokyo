@@ -2,19 +2,23 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 		<sitemap>
-			<loc>http://localhost:1313/en/sitemap.xml</loc>
+			<loc>https://hidden-japan.tokyo/en/sitemap.xml</loc>
 			
-				<lastmod>2026-06-25T00:00:00+00:00</lastmod>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>http://localhost:1313/ko/sitemap.xml</loc>
+				<lastmod>2026-06-26T00:00:00+00:00</lastmod>
 			
 		</sitemap>
 	
 		<sitemap>
-			<loc>http://localhost:1313/zh-tw/sitemap.xml</loc>
+			<loc>https://hidden-japan.tokyo/ko/sitemap.xml</loc>
+			
+				<lastmod>2026-06-26T00:00:00+00:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>https://hidden-japan.tokyo/zh-tw/sitemap.xml</loc>
+			
+				<lastmod>2026-06-26T00:00:00+00:00</lastmod>
 			
 		</sitemap>
 	

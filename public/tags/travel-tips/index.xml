@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Travel-Tips on Hidden Japan Tokyo</title>
-    <link>http://localhost:1313/tags/travel-tips/</link>
+    <link>https://hidden-japan.tokyo/tags/travel-tips/</link>
     <description>Recent content in Travel-Tips on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/travel-tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hidden-japan.tokyo/tags/travel-tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Japan&#39;s Most Scenic Local Train Rides Away from the Crowds</title>
-      <link>http://localhost:1313/posts/scenic-train-rides/</link>
+      <link>https://hidden-japan.tokyo/posts/scenic-train-rides/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/scenic-train-rides/</guid>
+      <guid>https://hidden-japan.tokyo/posts/scenic-train-rides/</guid>
       <description>Discover Japan&amp;#39;s most beautiful local train journeys that most foreign visitors never find.</description>
     </item>
   </channel>

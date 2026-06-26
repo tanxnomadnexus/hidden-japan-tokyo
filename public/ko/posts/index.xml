@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Hidden Japan Tokyo</title>
+    <link>https://hidden-japan.tokyo/ko/posts/</link>
+    <description>Recent content in Posts on Hidden Japan Tokyo</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hidden-japan.tokyo/ko/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>일본 시골 음식: 도시를 떠나야 만날 수 있는 5가지 일본 현지 음식 경험</title>
+      <link>https://hidden-japan.tokyo/ko/posts/rural-food-japan/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/ko/posts/rural-food-japan/</guid>
+      <description>관광 코스를 벗어난 일본 시골의 진짜 현지 음식 경험 5가지를 소개합니다.</description>
+    </item>
+    <item>
+      <title>일본의 숨겨진 폭포: 대부분의 관광객이 찾지 못하는 5곳</title>
+      <link>https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/</guid>
+      <description>대부분의 관광객이 찾지 못하는 일본 시골의 숨겨진 폭포 5곳을 소개합니다.</description>
+    </item>
+  </channel>
+</rss>
