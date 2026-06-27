@@ -18,9 +18,8 @@ defaultContentLanguage = "en"
     contentDir = "content/zh-tw"
 
 [params]
-  ShowReadingTime = true
-  ShowShareButtons = true
-  googleSiteVerification = "-TwQXpRh0uIUOdcmpVQbyg1PXw5Zr3zWQziWRfHTn9Y"
+  env = "production"
+  googleSiteVerification = "-TwQXpRh0ulUOdcmpVQbyg1PXw5Zr3zWQziWRfHTn9Y"
 
 [params.homeInfoParams]
   Title = "Discover Hidden Japan"
