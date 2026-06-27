@@ -18,10 +18,14 @@ defaultContentLanguage = "en"
     contentDir = "content/zh-tw"
 
 [params]
-  homeInfoParams = {Title = "Discover Hidden Japan", Content = "Off-the-beaten-path travel guides for real explorers"}
   ShowReadingTime = true
   ShowShareButtons = true
-  googleSiteVerification =google63ababe7928e6cec.html
+  googleSiteVerification = "google63ababe7928e6cec.html"
+
+[params.homeInfoParams]
+  Title = "Discover Hidden Japan"
+  Content = "Off-the-beaten-path travel guides for real explorers"
+
 
 [menu]
   [[menu.main]]
