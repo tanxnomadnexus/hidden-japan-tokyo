@@ -56,8 +56,30 @@
                 href="https://hidden-japan.tokyo/zh-tw/tags/"
                 />
   </url><url>
+    <loc>https://hidden-japan.tokyo/ko/tags/%EA%B8%B0%EC%B0%A8%EC%97%AC%ED%96%89/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hidden-japan.tokyo/ko/tags/%EB%8F%84%ED%98%B8%EC%BF%A0/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hidden-japan.tokyo/ko/tags/%EB%A3%8C%EC%B9%B8/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hidden-japan.tokyo/ko/tags/%EC%82%AC%EC%9B%90/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hidden-japan.tokyo/ko/posts/hidden-temples-tohoku/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/posts/hidden-temples-tohoku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/posts/hidden-temples-tohoku/"
+                />
   </url><url>
     <loc>https://hidden-japan.tokyo/ko/tags/%EC%88%A8%EA%B2%A8%EC%A7%84%EB%AA%85%EC%86%8C/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
@@ -67,6 +89,24 @@
   </url><url>
     <loc>https://hidden-japan.tokyo/ko/tags/%EC%9D%BC%EB%B3%B8%EC%97%AC%ED%96%89/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hidden-japan.tokyo/ko/posts/scenic-train-rides/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidden-japan.tokyo/posts/scenic-train-rides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/posts/scenic-train-rides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/posts/scenic-train-rides/"
+                />
   </url><url>
     <loc>https://hidden-japan.tokyo/ko/posts/hidden-onsen-towns/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
@@ -85,6 +125,9 @@
                 hreflang="zh-tw"
                 href="https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/"
                 />
+  </url><url>
+    <loc>https://hidden-japan.tokyo/ko/tags/%EC%A7%80%EC%97%AD%EC%97%B4%EC%B0%A8/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/</loc>
     <xhtml:link

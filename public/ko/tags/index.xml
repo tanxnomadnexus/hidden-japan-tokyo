@@ -9,10 +9,31 @@
     <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hidden-japan.tokyo/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>기차여행</title>
+      <link>https://hidden-japan.tokyo/ko/tags/%EA%B8%B0%EC%B0%A8%EC%97%AC%ED%96%89/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/ko/tags/%EA%B8%B0%EC%B0%A8%EC%97%AC%ED%96%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>도호쿠</title>
+      <link>https://hidden-japan.tokyo/ko/tags/%EB%8F%84%ED%98%B8%EC%BF%A0/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/ko/tags/%EB%8F%84%ED%98%B8%EC%BF%A0/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>료칸</title>
       <link>https://hidden-japan.tokyo/ko/tags/%EB%A3%8C%EC%B9%B8/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://hidden-japan.tokyo/ko/tags/%EB%A3%8C%EC%B9%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>사원</title>
+      <link>https://hidden-japan.tokyo/ko/tags/%EC%82%AC%EC%9B%90/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/ko/tags/%EC%82%AC%EC%9B%90/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +55,13 @@
       <link>https://hidden-japan.tokyo/ko/tags/%EC%9D%BC%EB%B3%B8%EC%97%AC%ED%96%89/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://hidden-japan.tokyo/ko/tags/%EC%9D%BC%EB%B3%B8%EC%97%AC%ED%96%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>지역열차</title>
+      <link>https://hidden-japan.tokyo/ko/tags/%EC%A7%80%EC%97%AD%EC%97%B4%EC%B0%A8/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/ko/tags/%EC%A7%80%EC%97%AD%EC%97%B4%EC%B0%A8/</guid>
       <description></description>
     </item>
   </channel>
