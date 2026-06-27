@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Hidden Japan Tokyo</title>
+    <link>https://hidden-japan.tokyo/zh-tw/tags/</link>
+    <description>Recent content in Tags on Hidden Japan Tokyo</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hidden-japan.tokyo/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日本旅遊</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>旅館</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E6%97%85%E9%A4%A8/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E6%97%85%E9%A4%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>溫泉</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E6%BA%AB%E6%B3%89/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E6%BA%AB%E6%B3%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>隱藏景點</title>
+      <link>https://hidden-japan.tokyo/zh-tw/tags/%E9%9A%B1%E8%97%8F%E6%99%AF%E9%BB%9E/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://hidden-japan.tokyo/zh-tw/tags/%E9%9A%B1%E8%97%8F%E6%99%AF%E9%BB%9E/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
