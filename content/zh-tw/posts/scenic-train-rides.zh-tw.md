@@ -5,7 +5,7 @@ tags: ["鐵道旅遊", "日本旅遊", "隱藏景點", "地方列車"]
 description: "新幹線看不到的真實日本，藏在這5條風景絕美的地方鐵道線上。"
 draft: false
 cover:
-  image: "images/train-cover.jpg"
+  image: "images/scenic-train-cover.jpg"
   alt: "日本風景地方列車"
 ---
 

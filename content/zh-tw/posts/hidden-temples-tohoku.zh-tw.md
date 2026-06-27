@@ -5,7 +5,7 @@ tags: ["寺廟", "東北", "日本旅遊", "隱藏景點"]
 description: "避開京都的人潮，探索東北地區最具氛圍感、歷史最深厚的5座寺廟與神社。"
 draft: false
 cover:
-  image: "images/tohoku-temples-cover.jpg"
+  image: "images/temple-cover.jpg"
   alt: "東北隱藏版寺廟"
 ---
 

@@ -5,7 +5,7 @@ tags: ["기차여행", "일본여행", "숨겨진명소", "지역열차"]
 description: "신칸센이 보여주지 않는 진짜 일본을 만날 수 있는, 경치 좋은 지역 열차 노선 5곳을 소개합니다."
 draft: false
 cover:
-  image: "images/train-cover.jpg"
+  image: "images/scenic-train-cover.jpg"
   alt: "일본 경치 좋은 지역 열차"
 ---
 

@@ -5,7 +5,7 @@ tags: ["사원", "도호쿠", "일본여행", "숨겨진명소"]
 description: "교토의 인파를 피해, 도호쿠의 분위기 있는 역사적 사원과 신사 5곳을 소개합니다."
 draft: false
 cover:
-  image: "images/tohoku-temples-cover.jpg"
+  image: "images/temple-cover.jpg"
   alt: "도호쿠 숨겨진 사원"
 ---
 
