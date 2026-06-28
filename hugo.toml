@@ -29,9 +29,13 @@ defaultContentLanguage = "en"
 [menu]
   [[menu.main]]
     name = "By Region"
-    url = "/tags/region/"
+    url = "/tags/#region"
     weight = 1
   [[menu.main]]
     name = "By Theme"
-    url = "/tags/theme/"
+    url = "/tags/#theme"
     weight = 2
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
