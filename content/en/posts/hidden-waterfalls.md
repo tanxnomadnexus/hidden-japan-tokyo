@@ -1,8 +1,8 @@
 ---
-title: "Hidden Waterfalls Japan: 5 Rural Japan Waterfalls Most Tourists Never Find"
+title: "Hidden Waterfalls in Japan: 5 Rural Gems Most Tourists Never Find"
 date: 2026-06-26
 tags: ["waterfalls", "nature", "tohoku", "kansai", "nationwide"]
-description: "Discover Japan's most beautiful hidden waterfalls that most tourists never find."
+description: "Five of Japan's most beautiful hidden waterfalls — tucked into rural valleys and mountain forests far from the tour group circuit. With access tips for each."
 draft: false
 cover:
   image: "images/waterfall-cover.jpg"

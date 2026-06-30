@@ -1,8 +1,8 @@
 ---
-title: "Rural Japan Food: 5 Local Japanese Food Experiences Worth Leaving the City For"
+title: "Rural Japan Food: 5 Local Food Experiences Worth Leaving Tokyo For"
 date: 2026-06-26
 tags: ["food", "nature", "tohoku", "chubu", "nationwide"]
-description: "Discover Japan's most authentic rural food experiences away from the tourist trail."
+description: "Five authentic rural Japanese food experiences you won't find in city restaurants — from Tohoku mountain cuisine to hand-pulled soba in a converted farmhouse."
 draft: false
 cover:
   image: "images/food-cover.jpg"

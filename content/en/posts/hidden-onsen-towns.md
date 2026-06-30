@@ -1,8 +1,8 @@
 ﻿---
-title: "5 Hidden Onsen Towns in Japan Away from the Crowds"
+title: "5 Hidden Onsen Towns in Japan Away from the Crowds (2026 Guide)"
 date: 2026-06-24
 tags: ["onsen", "tohoku", "chubu", "nature", "accommodation"]
-description: "Discover Japan's most extraordinary hidden hot spring towns that most foreign visitors never find."
+description: "Five off-the-radar hot spring towns in Japan — including a free riverside rotemburo open 24/7 and a century-old ryokan deep in an Aomori beech forest."
 draft: false
 cover:
   image: "images/onsen-cover.jpg"

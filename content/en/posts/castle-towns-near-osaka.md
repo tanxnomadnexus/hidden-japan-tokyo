@@ -1,8 +1,8 @@
 ---
-title: "Hidden Castle Towns Near Osaka: 5 Day Trips Beyond the Tourist Trail"
+title: "Hidden Castle Towns Near Osaka: 5 Day Trips Most Tourists Miss"
 date: 2026-06-27
 tags: ["castle-towns", "kansai", "chugoku", "chubu"]
-description: "Five historic castle towns within day-trip distance of Osaka that most foreign visitors never find."
+description: "Five historic castle towns within 3 hours of Osaka — including Japan's oldest surviving keep and a castle that floats above the clouds. All doable as day trips."
 draft: false
 cover:
   image: "images/osaka-castle-town-cover.jpg"

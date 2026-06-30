@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/beautiful-lighthouses-japan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/"
-                />
-  </url><url>
     <loc>https://hidden-japan.tokyo/tags/castle-towns/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -153,6 +135,24 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://hidden-japan.tokyo/zh-tw/"
+                />
+  </url><url>
+    <loc>https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/posts/beautiful-lighthouses-japan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/"
                 />
   </url><url>
     <loc>https://hidden-japan.tokyo/tags/kansai/</loc>

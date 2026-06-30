@@ -1,8 +1,8 @@
 ---
-title: "Hidden Castle Towns Near Tokyo: 5 Day Trips Beyond the Tourist Trail"
+title: "Hidden Castle Towns Near Tokyo: 5 Day Trips Off the Tourist Trail"
 date: 2026-06-27
 tags: ["castle-towns", "kanto", "tohoku", "chubu"]
-description: "Five historic castle towns within day-trip distance of Tokyo that most foreign visitors never find."
+description: "Five feudal castle towns within day-trip distance of Tokyo — from Little Edo Kawagoe to the samurai streets of Aizu-Wakamatsu. No rental car needed."
 draft: false
 cover:
   image: "images/tokyo-castle-town-cover.jpg"

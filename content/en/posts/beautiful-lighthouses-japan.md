@@ -1,8 +1,8 @@
 ---
-title: "Beautiful Lighthouses in Japan: 7 Scenic Stops Along Honshu's Coastline"
+title: "Japan Lighthouse Guide: 7 Hidden Coastal Gems Along Honshu Worth Visiting"
 date: 2026-06-27
 tags: ["lighthouses", "coastal", "nature", "nationwide", "kanto", "kansai", "tohoku"]
-description: "Seven of Honshu's most beautiful and least-visited lighthouses, from the Sea of Japan coast to the Pacific."
+description: "Honshu's most scenic and least-visited lighthouses — from Chiba's 1874 Inubosaki to Shimane's tallest stone tower. All reachable without a car."
 draft: false
 cover:
   image: "images/lighthouse-cover.jpg"

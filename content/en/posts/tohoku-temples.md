@@ -1,8 +1,8 @@
 ---
-title: "Hidden Temples Japan: 5 Off-the-Beaten-Path Tohoku Shrines Worth the Trip North"
+title: "Hidden Temples in Tohoku: 5 Shrines Worth the Trip North"
 date: 2026-06-26
 tags: ["temples-shrines", "tohoku", "nature", "hiking"]
-description: "Discover Tohoku's most atmospheric hidden temples and shrines away from the crowds."
+description: "Five of Tohoku's most atmospheric temples and shrines — from Yamadera's clifftop halls to the 1,400-year-old pilgrimage at Dewa Sanzan. Crowd-free and remarkable."
 draft: false
 cover:
   image: "images/temple-cover.jpg"

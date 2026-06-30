@@ -1,8 +1,8 @@
 ---
-title: "Japan's Most Scenic Local Train Rides Away from the Crowds"
+title: "Japan's Most Scenic Local Train Rides: 5 Routes Worth the Detour"
 date: 2026-06-25
 tags: ["trains", "tohoku", "chubu", "kyushu", "shikoku", "nationwide"]
-description: "Discover Japan's most beautiful local train journeys that most foreign visitors never find."
+description: "Five of Japan's most beautiful local train journeys — coastal cliff lines, highland valleys, and routes where you might be the only foreign passenger on board."
 draft: false
 cover:
   image: "images/scenic-train-cover.jpg"
