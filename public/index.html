@@ -149,213 +149,571 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<article class="first-entry home-info">
-    <header class="entry-header">
-        <h1>Discover Hidden Japan</h1>
-    </header>
-    <div class="entry-content md-content">
-        
-        <p>Skip the guidebook Japan. We hunt down the hidden waterfalls, forgotten castle towns, and unmarked onsen that most travelers never find — then tell you exactly how to get there.</p>
+<main class="main">
 
+<style>
+   
+
+  :root {
+    --ink:        #1a1a1a;
+    --paper:      #f7f4ef;
+    --accent:     #c45c26;
+    --muted:      #7a7065;
+    --divider:    #e0dbd2;
+    --card-bg:    #ffffff;
+    --tag-bg:     #f0ece5;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink:      #e8e3db;
+      --paper:    #141414;
+      --accent:   #d96f3a;
+      --muted:    #8a8278;
+      --divider:  #2a2a2a;
+      --card-bg:  #1e1e1e;
+      --tag-bg:   #252525;
+    }
+  }
+
+   
+  body { background: var(--paper); }
+
+   
+  .hj-hero {
+    padding: 4rem 1.5rem 3rem;
+    max-width: 860px;
+    margin: 0 auto;
+    border-bottom: 1px solid var(--divider);
+  }
+
+  .hj-hero-eyebrow {
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+
+  .hj-hero-title {
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--ink);
+    margin: 0 0 1.2rem;
+    letter-spacing: -0.02em;
+  }
+
+  .hj-hero-title em {
+    font-style: normal;
+    color: var(--accent);
+  }
+
+  .hj-hero-sub {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--muted);
+    max-width: 580px;
+    margin: 0 0 2rem;
+  }
+
+  .hj-hero-cta {
+    display: inline-flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .hj-btn {
+    display: inline-block;
+    padding: 0.65rem 1.4rem;
+    border-radius: 4px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    transition: opacity 0.15s;
+  }
+
+  .hj-btn:hover { opacity: 0.8; }
+
+  .hj-btn-primary {
+    background: var(--accent);
+    color: #fff;
+  }
+
+  .hj-btn-ghost {
+    border: 1.5px solid var(--divider);
+    color: var(--ink);
+  }
+
+   
+  .hj-section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+  }
+
+  .hj-section + .hj-section {
+    border-top: 1px solid var(--divider);
+  }
+
+  .hj-section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    gap: 1rem;
+  }
+
+  .hj-section-label {
+    font-size: 0.7rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .hj-section-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .hj-see-all {
+    font-size: 0.82rem;
+    color: var(--accent);
+    text-decoration: none;
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  .hj-see-all:hover { text-decoration: underline; }
+
+   
+  .hj-featured {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  @media (max-width: 680px) {
+    .hj-featured { grid-template-columns: 1fr; }
+  }
+
+  .hj-card-large {
+    background: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--divider);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .hj-card-large:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  }
+
+  .hj-card-img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    background: var(--tag-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+  }
+
+  .hj-card-body {
+    padding: 1.25rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hj-card-tag {
+    font-size: 0.68rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+
+  .hj-card-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.3;
+    margin: 0 0 0.6rem;
+  }
+
+  .hj-card-desc {
+    font-size: 0.85rem;
+    color: var(--muted);
+    line-height: 1.55;
+    margin: 0;
+    flex: 1;
+  }
+
+   
+  .hj-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+  }
+
+  @media (max-width: 860px) {
+    .hj-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (max-width: 520px) {
+    .hj-grid { grid-template-columns: 1fr; }
+  }
+
+  .hj-card-sm {
+    background: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--divider);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+
+  .hj-card-sm:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.07);
+  }
+
+  .hj-card-sm .hj-card-img {
+    aspect-ratio: 3/2;
+    font-size: 2rem;
+  }
+
+  .hj-card-sm .hj-card-body {
+    padding: 1rem;
+  }
+
+  .hj-card-sm .hj-card-title {
+    font-size: 0.95rem;
+  }
+
+   
+  .hj-themes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+
+  @media (max-width: 860px) {
+    .hj-themes { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (max-width: 480px) {
+    .hj-themes { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  .hj-theme-tile {
+    background: var(--card-bg);
+    border: 1px solid var(--divider);
+    border-radius: 8px;
+    padding: 1.25rem 1rem;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+    transition: background 0.15s, transform 0.15s;
+  }
+
+  .hj-theme-tile:hover {
+    background: var(--tag-bg);
+    transform: translateY(-2px);
+  }
+
+  .hj-theme-icon {
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+
+  .hj-theme-name {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.2;
+  }
+
+  .hj-theme-count {
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+
+   
+  .hj-regions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+
+  .hj-region-pill {
+    display: inline-block;
+    padding: 0.45rem 1rem;
+    border-radius: 100px;
+    background: var(--tag-bg);
+    border: 1px solid var(--divider);
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--ink);
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .hj-region-pill:hover {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+
+   
+  .hj-about {
+    background: var(--card-bg);
+    border-radius: 8px;
+    border: 1px solid var(--divider);
+    padding: 2rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+  }
+
+  @media (max-width: 600px) {
+    .hj-about { flex-direction: column; gap: 1rem; }
+  }
+
+  .hj-about-icon {
+    font-size: 2.8rem;
+    flex-shrink: 0;
+  }
+
+  .hj-about-text h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin: 0 0 0.4rem;
+  }
+
+  .hj-about-text p {
+    font-size: 0.88rem;
+    color: var(--muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+</style>
+
+
+<section class="hj-hero">
+  <p class="hj-hero-eyebrow">Hidden Japan Tokyo</p>
+  <h1 class="hj-hero-title">The Japan most<br>travelers never <em>find.</em></h1>
+  <p class="hj-hero-sub">Skip the guidebook circuit. We go after the hidden waterfalls, forgotten castle towns, and unmarked onsen that take real effort to reach — then tell you exactly how to get there.</p>
+  <div class="hj-hero-cta">
+    <a href="/theme/" class="hj-btn hj-btn-primary">Browse by Theme</a>
+    <a href="/region/" class="hj-btn hj-btn-ghost">Browse by Region</a>
+  </div>
+</section>
+
+
+<section class="hj-section">
+  <div class="hj-section-header">
+    <div>
+      <span class="hj-section-label">Latest</span>
+      <h2 class="hj-section-title">Recently Added</h2>
     </div>
-    <footer class="entry-footer">
-        <div class="social-icons" >
-</div>
-
-    </footer>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/fireworks-cover.jpg" alt="Japan fireworks festival over river at night">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Japan&#39;s Greatest Fireworks Festivals: 4 Shows Worth Planning Your Trip Around
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Japan has over a thousand fireworks festivals every summer. Most of them are lovely: a warm evening, a river or bay, forty minutes of colour overhead, and everyone cycling home before ten. But a handful of Japanese hanabi events are something categorically different — events where the scale is genuinely overwhelming, the artistry is competitive and taken seriously as a craft, and the crowd of hundreds of thousands of people creates a collective experience that you simply can’t replicate anywhere else.
-...</p>
+    <a href="/posts/" class="hj-see-all">See all →</a>
   </div>
-  <footer class="entry-footer">
 
-<span title='2026-06-28 00:00:00 +0000 UTC'>June 28, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Japan&#39;s Greatest Fireworks Festivals: 4 Shows Worth Planning Your Trip Around" href="https://hidden-japan.tokyo/posts/japan-fireworks-festivals/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/sento-cover.jpg" alt="Traditional Japanese sento public bath exterior">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Japan&#39;s Sento Culture: A Guide to the Local Public Bath
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Here’s the thing about Japan’s onsen circuit: by now, it has a tourist circuit. The famous hot spring towns — Hakone, Beppu, Kinosaki — are excellent, but they know you’re coming. The facilities are polished, the ryokan staff speak English, and the experience, while genuinely enjoyable, has been refined to the point of predictability.
-A sento is something else entirely.
-A sento is a public bathhouse — not a hot spring resort, not a ryokan, not a spa. It’s the neighborhood bath: the place where, before home plumbing became standard in Japan, the entire local community came each evening to wash, soak, talk, and decompress. They charged a small fee (still typically between 400 and 600 yen today, set by local government ordinance), they opened at the same time every day, and they ran on the rhythm of the neighborhood rather than the tourism calendar.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-28 00:00:00 +0000 UTC'>June 28, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Japan&#39;s Sento Culture: A Guide to the Local Public Bath" href="https://hidden-japan.tokyo/posts/sento-guide-japan/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/kominka-cover.jpg" alt="Traditional Japanese kominka farmhouse exterior">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Kominka Stays: How to Sleep in a Traditional Japanese Farmhouse
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>There’s a particular kind of Japan trip that doesn’t show up in most itineraries: spending a night not in a hotel room, not even in a ryokan with its set dinner times and shared baths, but in an entire farmhouse to yourself. A kominka — literally “old house” — with a sunken hearth, sliding paper doors, and a garden you can hear cicadas in. No staff hovering nearby, no fixed schedule. Just you, the house, and whatever rural town it happens to sit in.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-28 00:00:00 +0000 UTC'>June 28, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Kominka Stays: How to Sleep in a Traditional Japanese Farmhouse" href="https://hidden-japan.tokyo/posts/kominka-stays-japan/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/osaka-castle-town-cover.jpg" alt="Historic castle town near Osaka">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hidden Castle Towns Near Osaka: 5 Day Trips Most Tourists Miss
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Osaka’s tourist infrastructure is so well-developed that it can feel like the city is trying to keep you inside it — there’s always another food street, another neighborhood, another castle to see (its own castle being the obvious one). But the Kansai region around Osaka is one of the most historically layered parts of Japan, and within two or three hours in any direction lie castle towns that saw more history than most countries manage in a millennium.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-27 00:00:00 +0000 UTC'>June 27, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Hidden Castle Towns Near Osaka: 5 Day Trips Most Tourists Miss" href="https://hidden-japan.tokyo/posts/castle-towns-near-osaka/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/tokyo-castle-town-cover.jpg" alt="Historic castle town near Tokyo">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hidden Castle Towns Near Tokyo: 5 Day Trips Off the Tourist Trail
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Tokyo is an extraordinary city, but it has a gravitational pull that keeps most visitors locked within its orbit — or sends them shooting directly to Kyoto on the Shinkansen without stopping. What they miss is a ring of historic castle towns within two or three hours of the city, places where feudal Japan left its mark in stone walls, samurai districts, and merchant streets that survived the 20th century more or less intact.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-27 00:00:00 +0000 UTC'>June 27, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Hidden Castle Towns Near Tokyo: 5 Day Trips Off the Tourist Trail" href="https://hidden-japan.tokyo/posts/castle-towns-near-tokyo/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/lighthouse-cover.jpg" alt="Beautiful lighthouse on Japan&#39;s Honshu coastline">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Japan Lighthouse Guide: 7 Hidden Coastal Gems Along Honshu Worth Visiting
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Japan doesn’t market its lighthouses the way it markets its temples or its cherry blossoms, which is a shame — and also your advantage. Honshu’s coastline stretches for thousands of kilometers, wrapping around sea cliffs, volcanic headlands, and fishing coves that most foreign visitors never see. The lighthouses that stand along it tend to be old, well-built, and set against views that would stop anyone in their tracks.
-Below are seven of the finest lighthouse stops along Honshu, chosen for scenery, accessibility, and the general absence of tour groups.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-27 00:00:00 +0000 UTC'>June 27, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Japan Lighthouse Guide: 7 Hidden Coastal Gems Along Honshu Worth Visiting" href="https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/temple-cover.jpg" alt="Hidden temple in Tohoku Japan">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hidden Temples in Tohoku: 5 Shrines Worth the Trip North
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Kyoto gets all the attention when people talk about temples in Japan, and fair enough — it’s spectacular. But it’s also wall-to-wall tour groups, timed entry slots, and selfie sticks blocking your view of a thousand-year-old gate. Head north into Tohoku, though, and you’ll find some of the country’s most atmospheric, historically significant sites with a fraction of the crowd, sometimes none at all.
-Tohoku — the six northern prefectures of Aomori, Akita, Iwate, Miyagi, Yamagata, and Fukushima — doesn’t show up on most first-time itineraries, which is exactly why it’s worth the extra train ride. Below are five hidden temples Japan rarely puts on the cover of a guidebook, the kind of Tohoku shrines and temples where you might find yourself alone on a stone staircase, listening to nothing but wind and cedar trees. Here’s where to go and how to get there.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-26 00:00:00 +0000 UTC'>June 26, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Hidden Temples in Tohoku: 5 Shrines Worth the Trip North" href="https://hidden-japan.tokyo/posts/tohoku-temples/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/waterfall-cover.jpg" alt="Hidden waterfall in rural Japan">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hidden Waterfalls in Japan: 5 Rural Gems Most Tourists Never Find
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Everyone you know has a photo standing in front of Kegon Falls or posing at Nachi Falls with the same fifty other tourists crowding the frame. Nothing wrong with that — they’re stunning. But here’s something I’ve learned after years of chasing waterfalls down forgotten mountain roads: the real magic of Japan’s countryside is in the falls that don’t even have an English sign pointing the way.
-Japan has over 2,000 waterfalls taller than five meters, tucked into mountains that cover nearly three-quarters of the country. Most of them will never appear on a tourist itinerary, which is exactly the point. Below are five hidden waterfalls Japan rarely talks about in English-language guides — the kind of rural Japan waterfalls you stumble into and then can’t stop telling people about. Pack good shoes, rent a car if you can, and bring a little patience. These places reward it.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-26 00:00:00 +0000 UTC'>June 26, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Hidden Waterfalls in Japan: 5 Rural Gems Most Tourists Never Find" href="https://hidden-japan.tokyo/posts/hidden-waterfalls/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/food-cover.jpg" alt="Local Japanese food experience">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Rural Japan Food: 5 Local Food Experiences Worth Leaving Tokyo For
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Everyone arrives in Japan with a ramen list and a sushi bucket list, and honestly, you should eat your way through both. But the dishes that actually stick with you — the ones you find yourself describing to friends back home months later — are usually the ones you stumbled into somewhere with no English menu, no Google reviews, and a grandmother behind the counter who’s been making the same dish for forty years.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-26 00:00:00 +0000 UTC'>June 26, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Rural Japan Food: 5 Local Food Experiences Worth Leaving Tokyo For" href="https://hidden-japan.tokyo/posts/rural-food-japan/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="https://hidden-japan.tokyo/images/scenic-train-cover.jpg" alt="Scenic local train ride in Japan">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Japan&#39;s Most Scenic Local Train Rides: 5 Routes Worth the Detour
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Here’s something the big travel guides don’t tell you: the Shinkansen is efficient, yes, but it’s also mostly underground or elevated — you spend half the journey staring at the inside of a tunnel or the back of someone’s seat. The real Japan, the one with rice paddies going gold in October and fishing villages clinging to cliffsides and rivers you can see the bottom of, reveals itself on the slow trains. The ones that rattle. The ones where someone might get on carrying a box of vegetables.
-...</p>
-  </div>
-  <footer class="entry-footer">
-
-<span title='2026-06-25 00:00:00 +0000 UTC'>June 25, 2026</span></footer>
-  <a class="entry-link" aria-label="post link to Japan&#39;s Most Scenic Local Train Rides: 5 Routes Worth the Detour" href="https://hidden-japan.tokyo/posts/scenic-train-rides/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="next" href="https://hidden-japan.tokyo/page/2/">Next&nbsp;&nbsp;»
+  <div class="hj-featured">
+    <a href="https://hidden-japan.tokyo/posts/japan-fireworks-festivals/" class="hj-card-large">
+      <div class="hj-card-img">
+        <img src="images/fireworks-cover.jpg" alt="Japan fireworks festival over river at night" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">festivals</span>
+        <h3 class="hj-card-title">Japan&#39;s Greatest Fireworks Festivals: 4 Shows Worth Planning Your Trip Around</h3>
+        <p class="hj-card-desc">Four of Japan&#39;s most spectacular fireworks festivals — where the scale, artistry, and sheer physical …</p>
+      </div>
     </a>
-  </nav>
-</footer>
+    <a href="https://hidden-japan.tokyo/posts/sento-guide-japan/" class="hj-card-large">
+      <div class="hj-card-img">
+        <img src="images/sento-cover.jpg" alt="Traditional Japanese sento public bath exterior" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">onsen</span>
+        <h3 class="hj-card-title">Japan&#39;s Sento Culture: A Guide to the Local Public Bath</h3>
+        <p class="hj-card-desc">What a sento actually is, how it differs from a tourist onsen, and why stepping into a local public …</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="hj-grid">
+    <a href="https://hidden-japan.tokyo/posts/kominka-stays-japan/" class="hj-card-sm">
+      <div class="hj-card-img">
+        <img src="images/kominka-cover.jpg" alt="Traditional Japanese kominka farmhouse exterior" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">accommodation</span>
+        <h3 class="hj-card-title">Kominka Stays: How to Sleep in a Traditional Japanese Farmhouse</h3>
+        <p class="hj-card-desc">A practical guide to booking a whole traditional Japanese farmhouse — what …</p>
+      </div>
+    </a>
+    <a href="https://hidden-japan.tokyo/posts/castle-towns-near-osaka/" class="hj-card-sm">
+      <div class="hj-card-img">
+        <img src="images/osaka-castle-town-cover.jpg" alt="Historic castle town near Osaka" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">castle-towns</span>
+        <h3 class="hj-card-title">Hidden Castle Towns Near Osaka: 5 Day Trips Most Tourists Miss</h3>
+        <p class="hj-card-desc">Five historic castle towns within 3 hours of Osaka — including Japan&#39;s oldest …</p>
+      </div>
+    </a>
+    <a href="https://hidden-japan.tokyo/posts/castle-towns-near-tokyo/" class="hj-card-sm">
+      <div class="hj-card-img">
+        <img src="images/tokyo-castle-town-cover.jpg" alt="Historic castle town near Tokyo" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">castle-towns</span>
+        <h3 class="hj-card-title">Hidden Castle Towns Near Tokyo: 5 Day Trips Off the Tourist Trail</h3>
+        <p class="hj-card-desc">Five feudal castle towns within day-trip distance of Tokyo — from Little Edo …</p>
+      </div>
+    </a>
+    <a href="https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/" class="hj-card-sm">
+      <div class="hj-card-img">
+        <img src="images/lighthouse-cover.jpg" alt="Beautiful lighthouse on Japan&#39;s Honshu coastline" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">lighthouses</span>
+        <h3 class="hj-card-title">Japan Lighthouse Guide: 7 Hidden Coastal Gems Along Honshu Worth Visiting</h3>
+        <p class="hj-card-desc">Honshu&#39;s most scenic and least-visited lighthouses — from Chiba&#39;s 1874 Inubosaki …</p>
+      </div>
+    </a>
+    <a href="https://hidden-japan.tokyo/posts/tohoku-temples/" class="hj-card-sm">
+      <div class="hj-card-img">
+        <img src="images/temple-cover.jpg" alt="Hidden temple in Tohoku Japan" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">temples-shrines</span>
+        <h3 class="hj-card-title">Hidden Temples in Tohoku: 5 Shrines Worth the Trip North</h3>
+        <p class="hj-card-desc">Five of Tohoku&#39;s most atmospheric temples and shrines — from Yamadera&#39;s clifftop …</p>
+      </div>
+    </a>
+    <a href="https://hidden-japan.tokyo/posts/hidden-waterfalls/" class="hj-card-sm">
+      <div class="hj-card-img">
+        <img src="images/waterfall-cover.jpg" alt="Hidden waterfall in rural Japan" style="width:100%;height:100%;object-fit:cover;">
+      </div>
+      <div class="hj-card-body">
+        <span class="hj-card-tag">waterfalls</span>
+        <h3 class="hj-card-title">Hidden Waterfalls in Japan: 5 Rural Gems Most Tourists Never Find</h3>
+        <p class="hj-card-desc">Five of Japan&#39;s most beautiful hidden waterfalls — tucked into rural valleys and …</p>
+      </div>
+    </a>
+  </div>
+</section>
+
+
+<section class="hj-section">
+  <div class="hj-section-header">
+    <div>
+      <span class="hj-section-label">Explore</span>
+      <h2 class="hj-section-title">Browse by Theme</h2>
+    </div>
+    <a href="/theme/" class="hj-see-all">All themes →</a>
+  </div>
+
+  <div class="hj-themes">
+    <a href="/tags/onsen/" class="hj-theme-tile">
+      <span class="hj-theme-icon">♨️</span>
+      <span class="hj-theme-name">Onsen</span>
+      <span class="hj-theme-count">Hot spring towns</span>
+    </a>
+    <a href="/tags/castle-towns/" class="hj-theme-tile">
+      <span class="hj-theme-icon">🏯</span>
+      <span class="hj-theme-name">Castle Towns</span>
+      <span class="hj-theme-count">Feudal history</span>
+    </a>
+    <a href="/tags/nature/" class="hj-theme-tile">
+      <span class="hj-theme-icon">🌿</span>
+      <span class="hj-theme-name">Nature</span>
+      <span class="hj-theme-count">Landscapes & wilderness</span>
+    </a>
+    <a href="/tags/temples-shrines/" class="hj-theme-tile">
+      <span class="hj-theme-icon">⛩️</span>
+      <span class="hj-theme-name">Temples & Shrines</span>
+      <span class="hj-theme-count">Sacred sites</span>
+    </a>
+    <a href="/tags/trains/" class="hj-theme-tile">
+      <span class="hj-theme-icon">🚃</span>
+      <span class="hj-theme-name">Scenic Trains</span>
+      <span class="hj-theme-count">Local railways</span>
+    </a>
+    <a href="/tags/food/" class="hj-theme-tile">
+      <span class="hj-theme-icon">🍜</span>
+      <span class="hj-theme-name">Food</span>
+      <span class="hj-theme-count">Rural cuisine</span>
+    </a>
+    <a href="/tags/festivals/" class="hj-theme-tile">
+      <span class="hj-theme-icon">🎆</span>
+      <span class="hj-theme-name">Festivals</span>
+      <span class="hj-theme-count">Seasonal events</span>
+    </a>
+    <a href="/tags/accommodation/" class="hj-theme-tile">
+      <span class="hj-theme-icon">🏠</span>
+      <span class="hj-theme-name">Accommodation</span>
+      <span class="hj-theme-count">Ryokan & kominka</span>
+    </a>
+  </div>
+</section>
+
+
+<section class="hj-section">
+  <div class="hj-section-header">
+    <div>
+      <span class="hj-section-label">Where to go</span>
+      <h2 class="hj-section-title">Browse by Region</h2>
+    </div>
+    <a href="/region/" class="hj-see-all">All regions →</a>
+  </div>
+
+  <div class="hj-regions">
+    <a href="/tags/tohoku/" class="hj-region-pill">Tohoku 東北</a>
+    <a href="/tags/kanto/" class="hj-region-pill">Kanto 関東</a>
+    <a href="/tags/chubu/" class="hj-region-pill">Chubu 中部</a>
+    <a href="/tags/kansai/" class="hj-region-pill">Kansai 関西</a>
+    <a href="/tags/chugoku/" class="hj-region-pill">Chugoku 中国地方</a>
+    <a href="/tags/shikoku/" class="hj-region-pill">Shikoku 四国</a>
+    <a href="/tags/kyushu/" class="hj-region-pill">Kyushu 九州</a>
+    <a href="/tags/nationwide/" class="hj-region-pill">Nationwide 全国</a>
+  </div>
+</section>
+
+
+<section class="hj-section">
+  <div class="hj-about">
+    <div class="hj-about-icon">🗺️</div>
+    <div class="hj-about-text">
+      <h3>What is Hidden Japan Tokyo?</h3>
+      <p>An independent guide for travelers who've already done Kyoto. We write about the places that take a local train, a bit of planning, and the willingness to be the only foreigner in the room — and are completely worth it. Guides available in English, 한국어, and 繁體中文.</p>
+    </div>
+  </div>
+</section>
     </main>
     
 <footer class="footer">
