@@ -152,8 +152,6 @@
 <main class="main">
 
 <style>
-   
-
   :root {
     --ink:        #1a1a1a;
     --paper:      #f7f4ef;
@@ -176,17 +174,14 @@
     }
   }
 
-   
   body { background: var(--paper); }
 
-   
   .hj-hero {
     padding: 4rem 1.5rem 3rem;
     max-width: 860px;
     margin: 0 auto;
     border-bottom: 1px solid var(--divider);
   }
-
   .hj-hero-eyebrow {
     font-size: 0.72rem;
     letter-spacing: 0.18em;
@@ -195,7 +190,6 @@
     font-weight: 600;
     margin-bottom: 1rem;
   }
-
   .hj-hero-title {
     font-size: clamp(2rem, 5vw, 3.4rem);
     font-weight: 800;
@@ -204,12 +198,10 @@
     margin: 0 0 1.2rem;
     letter-spacing: -0.02em;
   }
-
   .hj-hero-title em {
     font-style: normal;
     color: var(--accent);
   }
-
   .hj-hero-sub {
     font-size: 1.05rem;
     line-height: 1.65;
@@ -217,13 +209,11 @@
     max-width: 580px;
     margin: 0 0 2rem;
   }
-
   .hj-hero-cta {
     display: inline-flex;
     gap: 1rem;
     flex-wrap: wrap;
   }
-
   .hj-btn {
     display: inline-block;
     padding: 0.65rem 1.4rem;
@@ -234,30 +224,16 @@
     text-decoration: none;
     transition: opacity 0.15s;
   }
-
   .hj-btn:hover { opacity: 0.8; }
+  .hj-btn-primary { background: var(--accent); color: #fff; }
+  .hj-btn-ghost { border: 1.5px solid var(--divider); color: var(--ink); }
 
-  .hj-btn-primary {
-    background: var(--accent);
-    color: #fff;
-  }
-
-  .hj-btn-ghost {
-    border: 1.5px solid var(--divider);
-    color: var(--ink);
-  }
-
-   
   .hj-section {
     max-width: 1100px;
     margin: 0 auto;
     padding: 3rem 1.5rem;
   }
-
-  .hj-section + .hj-section {
-    border-top: 1px solid var(--divider);
-  }
-
+  .hj-section + .hj-section { border-top: 1px solid var(--divider); }
   .hj-section-header {
     display: flex;
     align-items: baseline;
@@ -265,7 +241,6 @@
     margin-bottom: 2rem;
     gap: 1rem;
   }
-
   .hj-section-label {
     font-size: 0.7rem;
     letter-spacing: 0.16em;
@@ -275,7 +250,6 @@
     display: block;
     margin-bottom: 0.25rem;
   }
-
   .hj-section-title {
     font-size: 1.4rem;
     font-weight: 700;
@@ -283,7 +257,6 @@
     margin: 0;
     line-height: 1.2;
   }
-
   .hj-see-all {
     font-size: 0.82rem;
     color: var(--accent);
@@ -291,20 +264,15 @@
     white-space: nowrap;
     font-weight: 600;
   }
-
   .hj-see-all:hover { text-decoration: underline; }
 
-   
   .hj-featured {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
     margin-bottom: 1.5rem;
   }
-
-  @media (max-width: 680px) {
-    .hj-featured { grid-template-columns: 1fr; }
-  }
+  @media (max-width: 680px) { .hj-featured { grid-template-columns: 1fr; } }
 
   .hj-card-large {
     background: var(--card-bg);
@@ -316,21 +284,26 @@
     flex-direction: column;
     transition: transform 0.15s, box-shadow 0.15s;
   }
-
   .hj-card-large:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 24px rgba(0,0,0,0.08);
   }
 
-  .hj-card-img {
+  .hj-card-img-wrap {
     width: 100%;
     aspect-ratio: 16/9;
-    object-fit: cover;
+    overflow: hidden;
     background: var(--tag-bg);
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 2.5rem;
+  }
+  .hj-card-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
 
   .hj-card-body {
@@ -339,7 +312,6 @@
     display: flex;
     flex-direction: column;
   }
-
   .hj-card-tag {
     font-size: 0.68rem;
     letter-spacing: 0.14em;
@@ -348,7 +320,6 @@
     font-weight: 700;
     margin-bottom: 0.5rem;
   }
-
   .hj-card-title {
     font-size: 1.1rem;
     font-weight: 700;
@@ -356,7 +327,6 @@
     line-height: 1.3;
     margin: 0 0 0.6rem;
   }
-
   .hj-card-desc {
     font-size: 0.85rem;
     color: var(--muted);
@@ -365,20 +335,13 @@
     flex: 1;
   }
 
-   
   .hj-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.25rem;
   }
-
-  @media (max-width: 860px) {
-    .hj-grid { grid-template-columns: repeat(2, 1fr); }
-  }
-
-  @media (max-width: 520px) {
-    .hj-grid { grid-template-columns: 1fr; }
-  }
+  @media (max-width: 860px) { .hj-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) { .hj-grid { grid-template-columns: 1fr; } }
 
   .hj-card-sm {
     background: var(--card-bg);
@@ -390,39 +353,20 @@
     flex-direction: column;
     transition: transform 0.15s, box-shadow 0.15s;
   }
-
   .hj-card-sm:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 18px rgba(0,0,0,0.07);
   }
+  .hj-card-sm .hj-card-img-wrap { aspect-ratio: 3/2; font-size: 2rem; }
+  .hj-card-sm .hj-card-body { padding: 1rem; }
+  .hj-card-sm .hj-card-title { font-size: 0.95rem; }
 
-  .hj-card-sm .hj-card-img {
-    aspect-ratio: 3/2;
-    font-size: 2rem;
-  }
-
-  .hj-card-sm .hj-card-body {
-    padding: 1rem;
-  }
-
-  .hj-card-sm .hj-card-title {
-    font-size: 0.95rem;
-  }
-
-   
   .hj-themes {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
   }
-
-  @media (max-width: 860px) {
-    .hj-themes { grid-template-columns: repeat(2, 1fr); }
-  }
-
-  @media (max-width: 480px) {
-    .hj-themes { grid-template-columns: repeat(2, 1fr); }
-  }
+  @media (max-width: 860px) { .hj-themes { grid-template-columns: repeat(2, 1fr); } }
 
   .hj-theme-tile {
     background: var(--card-bg);
@@ -436,36 +380,12 @@
     gap: 0.5rem;
     transition: background 0.15s, transform 0.15s;
   }
+  .hj-theme-tile:hover { background: var(--tag-bg); transform: translateY(-2px); }
+  .hj-theme-icon { font-size: 1.6rem; line-height: 1; }
+  .hj-theme-name { font-size: 0.88rem; font-weight: 700; color: var(--ink); line-height: 1.2; }
+  .hj-theme-count { font-size: 0.75rem; color: var(--muted); }
 
-  .hj-theme-tile:hover {
-    background: var(--tag-bg);
-    transform: translateY(-2px);
-  }
-
-  .hj-theme-icon {
-    font-size: 1.6rem;
-    line-height: 1;
-  }
-
-  .hj-theme-name {
-    font-size: 0.88rem;
-    font-weight: 700;
-    color: var(--ink);
-    line-height: 1.2;
-  }
-
-  .hj-theme-count {
-    font-size: 0.75rem;
-    color: var(--muted);
-  }
-
-   
-  .hj-regions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
-  }
-
+  .hj-regions { display: flex; flex-wrap: wrap; gap: 0.6rem; }
   .hj-region-pill {
     display: inline-block;
     padding: 0.45rem 1rem;
@@ -478,14 +398,8 @@
     text-decoration: none;
     transition: background 0.15s, color 0.15s;
   }
+  .hj-region-pill:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
 
-  .hj-region-pill:hover {
-    background: var(--accent);
-    color: #fff;
-    border-color: var(--accent);
-  }
-
-   
   .hj-about {
     background: var(--card-bg);
     border-radius: 8px;
@@ -495,29 +409,10 @@
     gap: 2rem;
     align-items: center;
   }
-
-  @media (max-width: 600px) {
-    .hj-about { flex-direction: column; gap: 1rem; }
-  }
-
-  .hj-about-icon {
-    font-size: 2.8rem;
-    flex-shrink: 0;
-  }
-
-  .hj-about-text h3 {
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--ink);
-    margin: 0 0 0.4rem;
-  }
-
-  .hj-about-text p {
-    font-size: 0.88rem;
-    color: var(--muted);
-    line-height: 1.6;
-    margin: 0;
-  }
+  @media (max-width: 600px) { .hj-about { flex-direction: column; gap: 1rem; } }
+  .hj-about-icon { font-size: 2.8rem; flex-shrink: 0; }
+  .hj-about-text h3 { font-size: 1rem; font-weight: 700; color: var(--ink); margin: 0 0 0.4rem; }
+  .hj-about-text p { font-size: 0.88rem; color: var(--muted); line-height: 1.6; margin: 0; }
 </style>
 
 
@@ -526,8 +421,8 @@
   <h1 class="hj-hero-title">The Japan most<br>travelers never <em>find.</em></h1>
   <p class="hj-hero-sub">Skip the guidebook circuit. We go after the hidden waterfalls, forgotten castle towns, and unmarked onsen that take real effort to reach — then tell you exactly how to get there.</p>
   <div class="hj-hero-cta">
-    <a href="/theme/" class="hj-btn hj-btn-primary">Browse by Theme</a>
-    <a href="/region/" class="hj-btn hj-btn-ghost">Browse by Region</a>
+    <a href="/zh-tw/theme/" class="hj-btn hj-btn-primary">Browse by Theme</a>
+    <a href="/zh-tw/region/" class="hj-btn hj-btn-ghost">Browse by Region</a>
   </div>
 </section>
 
@@ -538,26 +433,23 @@
       <span class="hj-section-label">Latest</span>
       <h2 class="hj-section-title">Recently Added</h2>
     </div>
-    <a href="/posts/" class="hj-see-all">See all →</a>
+    <a href="/zh-tw/posts/" class="hj-see-all">See all →</a>
   </div>
-
   <div class="hj-featured">
     <a href="https://hidden-japan.tokyo/zh-tw/posts/sento-guide-japan/" class="hj-card-large">
-      <div class="hj-card-img">
-        <img src="images/sento-cover.jpg" alt="日本傳統錢湯公共澡堂外觀" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/sento-cover.jpg" alt="日本傳統錢湯公共澡堂外觀" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">onsen</span>
+      <div class="hj-card-body"><span class="hj-card-tag">onsen</span>
         <h3 class="hj-card-title">日本的錢湯文化：在地公共澡堂完全指南</h3>
         <p class="hj-card-desc">什麼是錢湯、它與觀光溫泉有何不同，以及為何走進一間在地公共澡堂是日本最真實的體驗之一。</p>
       </div>
     </a>
     <a href="https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/" class="hj-card-large">
-      <div class="hj-card-img">
-        <img src="images/fireworks-cover.jpg" alt="日本煙火祭典在夜空中綻放" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/fireworks-cover.jpg" alt="日本煙火祭典在夜空中綻放" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">festivals</span>
+      <div class="hj-card-body"><span class="hj-card-tag">festivals</span>
         <h3 class="hj-card-title">日本最盛大的煙火祭典：4場值得專程安排行程的花火大會</h3>
         <p class="hj-card-desc">四場日本最壯觀的煙火祭典——以規模、藝術性與震撼的感官衝擊，將夏夜變成畢生難忘的體驗。</p>
       </div>
@@ -566,61 +458,55 @@
 
   <div class="hj-grid">
     <a href="https://hidden-japan.tokyo/zh-tw/posts/kominka-stays-japan/" class="hj-card-sm">
-      <div class="hj-card-img">
-        <img src="images/kominka-cover.jpg" alt="日本傳統古民家農舍外觀" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/kominka-cover.jpg" alt="日本傳統古民家農舍外觀" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">accommodation</span>
+      <div class="hj-card-body"><span class="hj-card-tag">accommodation</span>
         <h3 class="hj-card-title">古民家住宿：在日本傳統農家過一夜</h3>
         <p class="hj-card-desc">什麼是古民家住宿、在哪裡找到真正的古民家，以及入住後能期待什麼體驗——一份實用指南。</p>
       </div>
     </a>
     <a href="https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-osaka/" class="hj-card-sm">
-      <div class="hj-card-img">
-        <img src="images/osaka-castle-town-cover.jpg" alt="大阪近郊的隱藏版城下町" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/osaka-castle-town-cover.jpg" alt="大阪近郊的隱藏版城下町" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">castle-towns</span>
+      <div class="hj-card-body"><span class="hj-card-tag">castle-towns</span>
         <h3 class="hj-card-title">大阪近郊的隱藏版城下町：跳脫觀光路線的5處一日遊景點</h3>
         <p class="hj-card-desc">大多數外國遊客完全錯過的，大阪近郊5座歷史城下町。</p>
       </div>
     </a>
     <a href="https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/" class="hj-card-sm">
-      <div class="hj-card-img">
-        <img src="images/lighthouse-cover.jpg" alt="本州海岸線上的美麗燈塔" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/lighthouse-cover.jpg" alt="本州海岸線上的美麗燈塔" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">lighthouses</span>
+      <div class="hj-card-body"><span class="hj-card-tag">lighthouses</span>
         <h3 class="hj-card-title">日本美麗的燈塔：沿著本州海岸線的7處絕美景點</h3>
         <p class="hj-card-desc">本州海岸線上七座最美麗、最少人造訪的燈塔景點。</p>
       </div>
     </a>
     <a href="https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-tokyo/" class="hj-card-sm">
-      <div class="hj-card-img">
-        <img src="images/tokyo-castle-town-cover.jpg" alt="東京近郊的隱藏版城下町" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/tokyo-castle-town-cover.jpg" alt="東京近郊的隱藏版城下町" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">castle-towns</span>
+      <div class="hj-card-body"><span class="hj-card-tag">castle-towns</span>
         <h3 class="hj-card-title">東京近郊的隱藏版城下町：跳脫觀光路線的5處一日遊景點</h3>
         <p class="hj-card-desc">大多數外國遊客完全錯過的，東京近郊5座歷史城下町。</p>
       </div>
     </a>
     <a href="https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/" class="hj-card-sm">
-      <div class="hj-card-img">
-        <img src="images/onsen-cover.jpg" alt="日本隱藏版溫泉小鎮" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/onsen-cover.jpg" alt="日本隱藏版溫泉小鎮" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">溫泉</span>
+      <div class="hj-card-body"><span class="hj-card-tag">溫泉</span>
         <h3 class="hj-card-title">日本五個隱藏版溫泉小鎮，遠離人潮</h3>
         <p class="hj-card-desc">探索大多數外國遊客從未發現的日本隱藏版溫泉小鎮。</p>
       </div>
     </a>
     <a href="https://hidden-japan.tokyo/zh-tw/posts/scenic-train-rides/" class="hj-card-sm">
-      <div class="hj-card-img">
-        <img src="images/scenic-train-cover.jpg" alt="日本風景地方列車" style="width:100%;height:100%;object-fit:cover;">
+      <div class="hj-card-img-wrap">
+        <img src="/images/scenic-train-cover.jpg" alt="日本風景地方列車" loading="lazy">
       </div>
-      <div class="hj-card-body">
-        <span class="hj-card-tag">鐵道旅遊</span>
+      <div class="hj-card-body"><span class="hj-card-tag">鐵道旅遊</span>
         <h3 class="hj-card-title">日本最美地方鐵道之旅，遠離人潮</h3>
         <p class="hj-card-desc">新幹線看不到的真實日本，藏在這5條風景絕美的地方鐵道線上。</p>
       </div>
@@ -635,50 +521,17 @@
       <span class="hj-section-label">Explore</span>
       <h2 class="hj-section-title">Browse by Theme</h2>
     </div>
-    <a href="/theme/" class="hj-see-all">All themes →</a>
+    <a href="/zh-tw/theme/" class="hj-see-all">All themes →</a>
   </div>
-
   <div class="hj-themes">
-    <a href="/tags/onsen/" class="hj-theme-tile">
-      <span class="hj-theme-icon">♨️</span>
-      <span class="hj-theme-name">Onsen</span>
-      <span class="hj-theme-count">Hot spring towns</span>
-    </a>
-    <a href="/tags/castle-towns/" class="hj-theme-tile">
-      <span class="hj-theme-icon">🏯</span>
-      <span class="hj-theme-name">Castle Towns</span>
-      <span class="hj-theme-count">Feudal history</span>
-    </a>
-    <a href="/tags/nature/" class="hj-theme-tile">
-      <span class="hj-theme-icon">🌿</span>
-      <span class="hj-theme-name">Nature</span>
-      <span class="hj-theme-count">Landscapes & wilderness</span>
-    </a>
-    <a href="/tags/temples-shrines/" class="hj-theme-tile">
-      <span class="hj-theme-icon">⛩️</span>
-      <span class="hj-theme-name">Temples & Shrines</span>
-      <span class="hj-theme-count">Sacred sites</span>
-    </a>
-    <a href="/tags/trains/" class="hj-theme-tile">
-      <span class="hj-theme-icon">🚃</span>
-      <span class="hj-theme-name">Scenic Trains</span>
-      <span class="hj-theme-count">Local railways</span>
-    </a>
-    <a href="/tags/food/" class="hj-theme-tile">
-      <span class="hj-theme-icon">🍜</span>
-      <span class="hj-theme-name">Food</span>
-      <span class="hj-theme-count">Rural cuisine</span>
-    </a>
-    <a href="/tags/festivals/" class="hj-theme-tile">
-      <span class="hj-theme-icon">🎆</span>
-      <span class="hj-theme-name">Festivals</span>
-      <span class="hj-theme-count">Seasonal events</span>
-    </a>
-    <a href="/tags/accommodation/" class="hj-theme-tile">
-      <span class="hj-theme-icon">🏠</span>
-      <span class="hj-theme-name">Accommodation</span>
-      <span class="hj-theme-count">Ryokan & kominka</span>
-    </a>
+    <a href="/tags/onsen/" class="hj-theme-tile"><span class="hj-theme-icon">♨️</span><span class="hj-theme-name">Onsen</span><span class="hj-theme-count">Hot spring towns</span></a>
+    <a href="/tags/castle-towns/" class="hj-theme-tile"><span class="hj-theme-icon">🏯</span><span class="hj-theme-name">Castle Towns</span><span class="hj-theme-count">Feudal history</span></a>
+    <a href="/tags/nature/" class="hj-theme-tile"><span class="hj-theme-icon">🌿</span><span class="hj-theme-name">Nature</span><span class="hj-theme-count">Landscapes & wilderness</span></a>
+    <a href="/tags/temples-shrines/" class="hj-theme-tile"><span class="hj-theme-icon">⛩️</span><span class="hj-theme-name">Temples & Shrines</span><span class="hj-theme-count">Sacred sites</span></a>
+    <a href="/tags/trains/" class="hj-theme-tile"><span class="hj-theme-icon">🚃</span><span class="hj-theme-name">Scenic Trains</span><span class="hj-theme-count">Local railways</span></a>
+    <a href="/tags/food/" class="hj-theme-tile"><span class="hj-theme-icon">🍜</span><span class="hj-theme-name">Food</span><span class="hj-theme-count">Rural cuisine</span></a>
+    <a href="/tags/festivals/" class="hj-theme-tile"><span class="hj-theme-icon">🎆</span><span class="hj-theme-name">Festivals</span><span class="hj-theme-count">Seasonal events</span></a>
+    <a href="/tags/accommodation/" class="hj-theme-tile"><span class="hj-theme-icon">🏠</span><span class="hj-theme-name">Accommodation</span><span class="hj-theme-count">Ryokan & kominka</span></a>
   </div>
 </section>
 
@@ -689,9 +542,8 @@
       <span class="hj-section-label">Where to go</span>
       <h2 class="hj-section-title">Browse by Region</h2>
     </div>
-    <a href="/region/" class="hj-see-all">All regions →</a>
+    <a href="/zh-tw/region/" class="hj-see-all">All regions →</a>
   </div>
-
   <div class="hj-regions">
     <a href="/tags/tohoku/" class="hj-region-pill">Tohoku 東北</a>
     <a href="/tags/kanto/" class="hj-region-pill">Kanto 関東</a>
