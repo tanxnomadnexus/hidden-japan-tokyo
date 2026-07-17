@@ -149,3 +149,9 @@ The shinkansen will keep running north. You don't have to get off.
 But if you do, and you give Aomori two or three days rather than a morning's glance from a train window, you'll end up in a city that feeds you extraordinarily well, puts you in some of the most atmospheric hot springs in Japan, and asks almost nothing in return except a willingness to figure things out without much English signage to help.
 
 That, in the end, is what this series is about.
+
+---
+
+## Book a Private Guide in Aomori
+
+Navigating Aomori's morning market, finding the right wanko soba restaurant, or getting to Sukayu without getting lost — a local guide makes all of this easier. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Faomori) connects you with private, English-speaking guides in Aomori who can customize the day around what you actually want to do.

@@ -67,3 +67,8 @@ Final thoughts
 None of these five sites will pull the crowds that Kiyomizu-dera or Fushimi Inari draw every single day, and that's the whole point. Tohoku rewards travelers who are willing to take a local train an extra hour north, who don't mind handwritten signs instead of multilingual placards, and who'd rather have a centuries-old hall mostly to themselves than fight for a photo angle.
 
 If you only have time for one stop, let your interests guide you: Yamadera if you want drama and a view, Chusonji if history and gold leaf are your thing, Dewa Sanzan if you want something closer to a genuine spiritual journey than a sightseeing stop. However you choose, these hidden temples Japan keeps tucked away in its northern mountains, and the quieter Tohoku shrines surrounding them, are some of the most rewarding stops you can make off the standard tourist trail.
+---
+
+## Visit Tohoku's Hidden Temples with a Local Guide
+
+Getting to Dewa Sanzan or Yamadera with full context — the history, the ritual significance, the things not written on the plaques — takes someone who knows the region. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fiwate) connects you with private, English-speaking guides in Tohoku who can turn a sightseeing stop into something that actually stays with you.

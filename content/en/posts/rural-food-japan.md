@@ -67,3 +67,8 @@ Final thoughts
 None of these dishes are on a "must-eat in Japan" list you'll find in a guidebook, and that's really the appeal. Rural Japan food experiences require a bit more legwork — a local train line instead of a bullet train, a handwritten menu instead of a tablet, maybe a few words of broken Japanese to order — but the payoff is a meal that actually tells you something about the place you're standing in.
 
 If you're short on time, prioritize whichever region already fits your route: Ina Valley if you're doing the Japanese Alps, Tsuruoka if you're exploring Tohoku, Tsuyama if Okayama and the Seto Inland Sea are on your list. However you choose, rural Japan rewards the traveler willing to eat a little further off the map — and these five local Japanese food experiences are proof that the best meal of your trip might be the one you almost didn't plan for.
+---
+
+## Eat Like a Local with a Private Food Guide
+
+Navigating rural Japan's food culture — finding the right market, ordering from a menu with no pictures, understanding what's seasonal and what's not — is exactly where a local guide earns their fee. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private, English-speaking guides across Japan who specialize in exactly this kind of off-the-menu local experience.

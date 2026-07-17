@@ -93,3 +93,8 @@ None of these journeys require advance booking. Just show up, buy a ticket from 
 That feeling, on both sides of it, is worth more than any famous sight.
 
 *Practical tip: IC cards (Suica, ICOCA) work on most JR lines. For third-sector railways, have cash ready. Google Maps is surprisingly good at local train schedules in Japan — use it to time your connections.*
+---
+
+## Go Deeper with a Local Guide
+
+The train gets you there. A local guide tells you what you're looking at when you arrive. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private, English-speaking guides across Japan — including in the smaller towns along these routes — who can fill in the history, the food, and the context that no train window can show you.

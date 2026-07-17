@@ -90,3 +90,8 @@ The castle town around it preserves its Edo-period layout better than most: samu
 All five towns are manageable as day trips from Tokyo, though Aizu-Wakamatsu and Ueda reward an overnight stay if your schedule allows. A Japan Rail Pass covers the Shinkansen legs to Ueda and Aizu-Wakamatsu, as well as the JR lines to Kawagoe and Ashikaga. For Otaki, check highway bus options from Tokyo Station — they're often faster and cheaper than the train combination.
 
 None of these towns require advance booking for the main sights, though Ashikaga Flower Park during wisteria season is the exception: timed entry tickets sell out weeks in advance.
+---
+
+## Explore These Castle Towns with a Private Guide
+
+Kawagoe's back alleys, Aizu-Wakamatsu's samurai history, Ueda's Sanada clan story — all of these go deeper with someone who knows the context. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo) connects you with private, English-speaking guides across the Kanto and Tohoku regions who can turn a day trip into something genuinely memorable.

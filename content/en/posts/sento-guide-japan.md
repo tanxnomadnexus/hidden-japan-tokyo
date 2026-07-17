@@ -90,3 +90,9 @@ Walking into a local sento with a small bag and 500 yen takes more confidence th
 The water is the same temperature. The tiles are older. And no one is performing anything for your benefit.
 
 That's the point.
+
+---
+
+## Go Further with a Local Guide
+
+Finding the right sento, understanding the neighborhood it sits in, knowing what to eat afterward — a local guide turns a single bath into an evening. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo) connects you with private, English-speaking guides in Tokyo and across Japan who specialize in exactly this kind of lived-in local experience.

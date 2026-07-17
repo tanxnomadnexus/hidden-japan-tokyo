@@ -114,3 +114,9 @@ All four festivals sell reserved viewing seats — which provide guaranteed posi
 Free viewing areas exist at all four festivals but require very early arrival — at Omagari and Nagaoka, competitive free-spot claiming begins before noon. The tradeoff between arriving hours early for a free spot versus paying for a reserved seat with guaranteed position is one of the central logistics decisions for each festival.
 
 Whatever your approach: book accommodation first. The hotels fill before the tickets.
+
+---
+
+## Experience the Festivals with a Local Guide
+
+Navigating the crowds, finding the best free viewing spots, knowing which yatai are worth the queue — a local guide at any of these festivals is worth their fee before the first firework goes up. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fniigata) connects you with private, English-speaking guides across Japan who know these events from the inside.

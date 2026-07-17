@@ -58,3 +58,9 @@ Check what's included carefully: bedding (futon vs. beds), whether the bath is s
 A kominka stay isn't for travelers who want their trip to run on rails. There's no concierge, no set dinner, no English signage in the village center. What you get instead is a few days inside a piece of working Japanese history — a building that sheltered farming families through a hundred winters, sitting in a landscape that most visitors to Japan never slow down enough to actually see.
 
 Search Booking.com for "kominka" or "traditional Japanese house" combined with your region of interest, read the listing carefully for the building's actual age, and book early for peak seasons — the best of these properties, often limited to one group per night, fill up well in advance.
+
+---
+
+## Make the Most of Your Kominka Stay
+
+Arriving at a remote farmhouse with no English signage and a host who speaks only Japanese is part of the experience — but having a local guide for the surrounding area makes everything easier. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private guides across Japan who can fill your days around the kominka with exactly the kind of local experience the stay itself promises.

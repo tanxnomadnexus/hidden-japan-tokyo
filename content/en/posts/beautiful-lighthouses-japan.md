@@ -104,3 +104,9 @@ The surrounding area includes a small shrine, a fish market, and walking paths a
 Japan's lighthouse network is extensive, well-maintained, and almost entirely overlooked by international tourism. The sixteen lighthouses open for public climbing are worth seeking out specifically — they're listed by the Japan Lighthouse Association (灯台の日 events in February mark the anniversary of the first Japanese lighthouse). 
 
 None of the seven stops above require a rental car, though having one makes the more remote capes significantly more flexible. Pack lunch where possible — headland cafes are rare, and part of the appeal of these places is that they haven't been developed for tourism at all.
+
+---
+
+## Explore Japan's Coast with a Local Guide
+
+Getting to the more remote lighthouses on this list — Shionomisaki, Kyogamisaki, Nyudozaki — often means navigating infrequent buses and rural roads. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private guides who know these coastal regions and can combine a lighthouse visit with the fishing villages, seafood, and scenery that make the journey worthwhile.

@@ -67,3 +67,8 @@ Final thoughts
 None of these waterfalls will show up on a "Top 10 Things to Do in Japan" list, and that's precisely their appeal. Finding them takes a rental car, a bit of patience with signage you might not be able to read, and a willingness to get your shoes muddy. But that effort is the filter that keeps these places quiet, and quiet is increasingly rare in a country welcoming record numbers of visitors every year.
 
 If you only have time for one, let your travel style decide: Ogawa Falls if you want a genuine expedition and don't mind ferries and forest hikes, Ryuzu Falls if you want something easy to add onto an already-planned Nikko day trip, or Arare Falls if you're chasing autumn color and want a gorge almost entirely to yourself. However you choose, rural Japan rewards travelers who wander a little further than the train map suggests — and these five hidden waterfalls Japan keeps mostly to itself are proof of that.
+---
+
+## Explore Japan's Hidden Waterfalls with a Local Guide
+
+Some of Japan's best waterfalls require local knowledge to find — unmarked paths, seasonal closures, and access points that don't appear on standard maps. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private guides across Japan who know the terrain and can take you beyond the obvious routes.

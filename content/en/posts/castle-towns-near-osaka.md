@@ -90,3 +90,8 @@ On autumn mornings, it shares the sea-of-clouds phenomenon with Takeda Castle �
 All five are reachable as day trips from Osaka, though Maruoka and Bitchu-Matsuyama are at the outer edge of comfortable day-trip range — an overnight stay in Fukui or Okayama makes them more relaxed. A Japan Rail Pass covers the Shinkansen and JR lines to all five; the Kintetsu network to Iga requires a separate ticket (affordable).
 
 The less-visited a castle town, the more likely the local tourism infrastructure is in Japanese only — bring Google Translate's camera mode and embrace the occasional uncertainty. The reward, in every case, is a version of Japan that most visitors to Osaka never suspect exists an hour or two down the line.
+---
+
+## Explore These Castle Towns with a Private Guide
+
+The samurai district in Sasayama, the cloud-castle ruins at Takeda, Bitchu-Matsuyama's mountain trail — all of these are more rewarding with a guide who knows the local history and can navigate the less obvious parts. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fosaka) connects you with private, English-speaking guides across Kansai and western Japan.

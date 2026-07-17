@@ -87,3 +87,8 @@ Japan's most beloved onsen towns are beloved for a reason — but if you have th
 That, in the end, is what onsen culture is really about: stepping out of the world for a moment. These towns will help you do it properly.
 
 Practical note: Reserve ryokan several weeks in advance for peak seasons, especially the smaller properties. A basic knowledge of onsen etiquette (wash thoroughly before entering, no swimwear in traditional baths, tattoos may be an issue at some establishments — call ahead) will go a long way. Most inns will appreciate any attempt at a greeting in Japanese.
+---
+
+## Find a Private Guide for Your Onsen Journey
+
+Getting to places like Nyuto Onsen or Tsuta without a car takes some planning — a local guide who knows the bus schedules and seasonal access conditions makes the difference between a smooth trip and a stressful one. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fakita) connects you with private, English-speaking guides across Tohoku who can customize your hot spring itinerary around your pace and interests.
