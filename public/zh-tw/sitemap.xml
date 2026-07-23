@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hidden-japan.tokyo/zh-tw/tags/festivals/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://hidden-japan.tokyo/zh-tw/tags/food/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,7 +39,7 @@
                 />
   </url><url>
     <loc>https://hidden-japan.tokyo/zh-tw/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,7 +57,7 @@
                 />
   </url><url>
     <loc>https://hidden-japan.tokyo/zh-tw/tags/nature/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -72,6 +72,78 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://hidden-japan.tokyo/zh-tw/tags/nature/"
+                />
+  </url><url>
+    <loc>https://hidden-japan.tokyo/zh-tw/posts/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidden-japan.tokyo/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/posts/"
+                />
+  </url><url>
+    <loc>https://hidden-japan.tokyo/zh-tw/tags/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidden-japan.tokyo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/tags/"
+                />
+  </url><url>
+    <loc>https://hidden-japan.tokyo/zh-tw/tags/tohoku/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidden-japan.tokyo/tags/tohoku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/tags/tohoku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/tags/tohoku/"
+                />
+  </url><url>
+    <loc>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hidden-japan.tokyo/posts/beyond-shinkansen-morioka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/"
                 />
   </url><url>
     <loc>https://hidden-japan.tokyo/zh-tw/tags/onsen/</loc>
@@ -90,60 +162,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://hidden-japan.tokyo/zh-tw/tags/onsen/"
-                />
-  </url><url>
-    <loc>https://hidden-japan.tokyo/zh-tw/posts/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidden-japan.tokyo/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/"
-                />
-  </url><url>
-    <loc>https://hidden-japan.tokyo/zh-tw/tags/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidden-japan.tokyo/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/"
-                />
-  </url><url>
-    <loc>https://hidden-japan.tokyo/zh-tw/tags/tohoku/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hidden-japan.tokyo/tags/tohoku/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/tohoku/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/tohoku/"
                 />
   </url><url>
     <loc>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</loc>
