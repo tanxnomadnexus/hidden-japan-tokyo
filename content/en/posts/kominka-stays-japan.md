@@ -64,3 +64,7 @@ Search Booking.com for "kominka" or "traditional Japanese house" combined with y
 ## Make the Most of Your Kominka Stay
 
 Arriving at a remote farmhouse with no English signage and a host who speaks only Japanese is part of the experience — but having a local guide for the surrounding area makes everything easier. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private guides across Japan who can fill your days around the kominka with exactly the kind of local experience the stay itself promises.
+
+## Find a Kominka Stay on Booking.com
+
+Search "traditional house" or "entire home" in your target region on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692) — the selection of kominka and traditional farmhouse rentals has grown significantly in recent years, with options across Tohoku, Nagano, the Izu Peninsula, and the Setouchi region.

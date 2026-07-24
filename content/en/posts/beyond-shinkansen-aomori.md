@@ -155,3 +155,7 @@ That, in the end, is what this series is about.
 ## Book a Private Guide in Aomori
 
 Navigating Aomori's morning market, finding the right wanko soba restaurant, or getting to Sukayu without getting lost — a local guide makes all of this easier. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Faomori) connects you with private, English-speaking guides in Aomori who can customize the day around what you actually want to do.
+
+## Where to Stay in Aomori
+
+Find hotels and guesthouses near Aomori Station on [Booking.com](https://www.booking.com/city/jp/aomori.html?aid=101811692) — business hotels in the ¥8,000–12,000/night range are clustered within easy walking distance of the station, the morning market, and the waterfront.

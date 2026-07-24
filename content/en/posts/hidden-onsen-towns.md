@@ -92,3 +92,7 @@ Practical note: Reserve ryokan several weeks in advance for peak seasons, especi
 ## Find a Private Guide for Your Onsen Journey
 
 Getting to places like Nyuto Onsen or Tsuta without a car takes some planning — a local guide who knows the bus schedules and seasonal access conditions makes the difference between a smooth trip and a stressful one. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fakita) connects you with private, English-speaking guides across Tohoku who can customize your hot spring itinerary around your pace and interests.
+
+## Where to Stay Near These Onsen Towns
+
+Find ryokan and hotels near these hidden hot spring destinations on [Booking.com](https://www.booking.com/region/jp/tohoku.html?aid=101811692) — from traditional inns with private baths to simple guesthouses within walking distance of the springs.

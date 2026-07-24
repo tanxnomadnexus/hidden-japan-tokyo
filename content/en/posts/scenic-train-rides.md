@@ -98,3 +98,7 @@ That feeling, on both sides of it, is worth more than any famous sight.
 ## Go Deeper with a Local Guide
 
 The train gets you there. A local guide tells you what you're looking at when you arrive. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private, English-speaking guides across Japan — including in the smaller towns along these routes — who can fill in the history, the food, and the context that no train window can show you.
+
+## Where to Stay Along the Route
+
+The best scenic train journeys reward travelers who stop overnight rather than rushing back. Find accommodation along these routes on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692).

@@ -110,3 +110,7 @@ None of the seven stops above require a rental car, though having one makes the 
 ## Explore Japan's Coast with a Local Guide
 
 Getting to the more remote lighthouses on this list — Shionomisaki, Kyogamisaki, Nyudozaki — often means navigating infrequent buses and rural roads. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private guides who know these coastal regions and can combine a lighthouse visit with the fishing villages, seafood, and scenery that make the journey worthwhile.
+
+## Where to Stay
+
+Most of Honshu's best lighthouses are worth an overnight stop in the surrounding area. Find coastal accommodation near these headlands on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692).

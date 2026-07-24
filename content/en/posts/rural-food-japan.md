@@ -72,3 +72,7 @@ If you're short on time, prioritize whichever region already fits your route: In
 ## Eat Like a Local with a Private Food Guide
 
 Navigating rural Japan's food culture — finding the right market, ordering from a menu with no pictures, understanding what's seasonal and what's not — is exactly where a local guide earns their fee. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private, English-speaking guides across Japan who specialize in exactly this kind of off-the-menu local experience.
+
+## Where to Stay
+
+The best rural food experiences in Japan happen when you stay overnight rather than day-tripping. Find guesthouses and small hotels in Japan's farming and fishing regions on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692).

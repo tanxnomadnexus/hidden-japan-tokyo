@@ -72,3 +72,7 @@ If you only have time for one, let your travel style decide: Ogawa Falls if you 
 ## Explore Japan's Hidden Waterfalls with a Local Guide
 
 Some of Japan's best waterfalls require local knowledge to find — unmarked paths, seasonal closures, and access points that don't appear on standard maps. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan) connects you with private guides across Japan who know the terrain and can take you beyond the obvious routes.
+
+## Where to Stay
+
+Find accommodation near Japan's hidden waterfalls on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692) — search by the nearest town or region for the best options close to each waterfall.

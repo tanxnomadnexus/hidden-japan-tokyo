@@ -95,3 +95,7 @@ None of these towns require advance booking for the main sights, though Ashikaga
 ## Explore These Castle Towns with a Private Guide
 
 Kawagoe's back alleys, Aizu-Wakamatsu's samurai history, Ueda's Sanada clan story — all of these go deeper with someone who knows the context. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo) connects you with private, English-speaking guides across the Kanto and Tohoku regions who can turn a day trip into something genuinely memorable.
+
+## Where to Stay
+
+All five of these castle towns work as day trips from Tokyo — but staying overnight gives you the town after the day visitors leave, which is a different experience entirely. Find accommodation on [Booking.com](https://www.booking.com/region/jp/kanto.html?aid=101811692).

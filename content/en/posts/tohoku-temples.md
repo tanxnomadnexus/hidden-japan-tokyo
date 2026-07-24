@@ -72,3 +72,7 @@ If you only have time for one stop, let your interests guide you: Yamadera if yo
 ## Visit Tohoku's Hidden Temples with a Local Guide
 
 Getting to Dewa Sanzan or Yamadera with full context — the history, the ritual significance, the things not written on the plaques — takes someone who knows the region. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fiwate) connects you with private, English-speaking guides in Tohoku who can turn a sightseeing stop into something that actually stays with you.
+
+## Where to Stay in Tohoku
+
+Find hotels and ryokan near Tohoku's hidden temples on [Booking.com](https://www.booking.com/region/jp/tohoku.html?aid=101811692) — staying overnight near Yamadera or Hiraizumi gives you the sites before and after the day-tripper crowds arrive.

@@ -151,3 +151,7 @@ Get off the train.
 ## Book a Private Guide in Morioka
 
 From the wanko soba protocol to the ironware workshops to the lesser-known corners of Iwate Park — a local guide in Morioka turns a good trip into a great one. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fmorioka) connects you with private, English-speaking guides in Morioka and the surrounding Iwate region.
+
+## Where to Stay in Morioka
+
+Find hotels near Morioka Station on [Booking.com](https://www.booking.com/city/jp/morioka.html?aid=101811692) — the downtown area has a good range of business hotels and a few smaller guesthouses, all within walking distance of the noodle shops and the castle ruins.

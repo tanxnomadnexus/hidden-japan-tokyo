@@ -120,3 +120,7 @@ Whatever your approach: book accommodation first. The hotels fill before the tic
 ## Experience the Festivals with a Local Guide
 
 Navigating the crowds, finding the best free viewing spots, knowing which yatai are worth the queue — a local guide at any of these festivals is worth their fee before the first firework goes up. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fniigata) connects you with private, English-speaking guides across Japan who know these events from the inside.
+
+## Book Accommodation Early
+
+For Omagari and Nagaoka in particular, accommodation books out months in advance. Search your festival dates now on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692) — filtering by the nearest city will show you what's still available and how far in advance you need to plan.

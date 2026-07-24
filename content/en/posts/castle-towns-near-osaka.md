@@ -95,3 +95,7 @@ The less-visited a castle town, the more likely the local tourism infrastructure
 ## Explore These Castle Towns with a Private Guide
 
 The samurai district in Sasayama, the cloud-castle ruins at Takeda, Bitchu-Matsuyama's mountain trail — all of these are more rewarding with a guide who knows the local history and can navigate the less obvious parts. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fosaka) connects you with private, English-speaking guides across Kansai and western Japan.
+
+## Where to Stay
+
+Maruoka and Bitchu-Matsuyama sit at the outer edge of comfortable day-trip range from Osaka — an overnight stay in Fukui or Okayama makes either much more relaxed. Find accommodation on [Booking.com](https://www.booking.com/city/jp/osaka.html?aid=101811692).
