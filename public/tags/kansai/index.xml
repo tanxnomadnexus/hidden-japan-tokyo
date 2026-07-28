@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kansai on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/tags/kansai/</link>
+    <link>http://localhost:1313/tags/kansai/</link>
     <description>Recent content in Kansai on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/tags/kansai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kansai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hidden Castle Towns Near Osaka: 5 Day Trips Most Tourists Miss</title>
-      <link>https://hidden-japan.tokyo/posts/castle-towns-near-osaka/</link>
+      <link>http://localhost:1313/posts/castle-towns-near-osaka/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/castle-towns-near-osaka/</guid>
+      <guid>http://localhost:1313/posts/castle-towns-near-osaka/</guid>
       <description>Five historic castle towns within 3 hours of Osaka — including Japan&amp;#39;s oldest surviving keep and a castle that floats above the clouds. All doable as day trips.</description>
     </item>
     <item>
       <title>Japan Lighthouse Guide: 7 Hidden Coastal Gems Along Honshu Worth Visiting</title>
-      <link>https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/</link>
+      <link>http://localhost:1313/posts/beautiful-lighthouses-japan/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/</guid>
+      <guid>http://localhost:1313/posts/beautiful-lighthouses-japan/</guid>
       <description>Honshu&amp;#39;s most scenic and least-visited lighthouses — from Chiba&amp;#39;s 1874 Inubosaki to Shimane&amp;#39;s tallest stone tower. All reachable without a car.</description>
     </item>
     <item>
       <title>Hidden Waterfalls in Japan: 5 Rural Gems Most Tourists Never Find</title>
-      <link>https://hidden-japan.tokyo/posts/hidden-waterfalls/</link>
+      <link>http://localhost:1313/posts/hidden-waterfalls/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/hidden-waterfalls/</guid>
+      <guid>http://localhost:1313/posts/hidden-waterfalls/</guid>
       <description>Five of Japan&amp;#39;s most beautiful hidden waterfalls — tucked into rural valleys and mountain forests far from the tour group circuit. With access tips for each.</description>
     </item>
   </channel>

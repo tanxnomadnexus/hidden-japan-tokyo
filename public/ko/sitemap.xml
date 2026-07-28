@@ -2,697 +2,769 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hidden-japan.tokyo/ko/tags/festivals/</loc>
+    <loc>http://localhost:1313/ko/tags/festivals/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/festivals/"
+                href="http://localhost:1313/tags/festivals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/festivals/"
+                href="http://localhost:1313/ko/tags/festivals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/festivals/"
+                href="http://localhost:1313/zh-tw/tags/festivals/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/food/</loc>
+    <loc>http://localhost:1313/ko/tags/food/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/food/"
+                href="http://localhost:1313/tags/food/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/food/"
+                href="http://localhost:1313/ko/tags/food/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/food/"
+                href="http://localhost:1313/zh-tw/tags/food/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/</loc>
+    <loc>http://localhost:1313/ko/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/"
+                href="http://localhost:1313/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/"
+                href="http://localhost:1313/zh-tw/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/nature/</loc>
+    <loc>http://localhost:1313/ko/tags/nature/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/nature/"
+                href="http://localhost:1313/tags/nature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/nature/"
+                href="http://localhost:1313/ko/tags/nature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/nature/"
+                href="http://localhost:1313/zh-tw/tags/nature/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/</loc>
+    <loc>http://localhost:1313/ko/posts/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/"
+                href="http://localhost:1313/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/"
+                href="http://localhost:1313/zh-tw/posts/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/</loc>
+    <loc>http://localhost:1313/ko/tags/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/"
+                href="http://localhost:1313/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/"
+                href="http://localhost:1313/zh-tw/tags/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/tohoku/</loc>
+    <loc>http://localhost:1313/ko/tags/tohoku/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/tohoku/"
+                href="http://localhost:1313/tags/tohoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/tohoku/"
+                href="http://localhost:1313/ko/tags/tohoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/tohoku/"
+                href="http://localhost:1313/zh-tw/tags/tohoku/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/</loc>
+    <loc>http://localhost:1313/ko/posts/beyond-shinkansen-morioka/</loc>
     <lastmod>2026-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/beyond-shinkansen-morioka/"
+                href="http://localhost:1313/posts/beyond-shinkansen-morioka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/"
+                href="http://localhost:1313/ko/posts/beyond-shinkansen-morioka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/"
+                href="http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/onsen/</loc>
+    <loc>http://localhost:1313/ko/tags/onsen/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/onsen/"
+                href="http://localhost:1313/tags/onsen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/onsen/"
+                href="http://localhost:1313/ko/tags/onsen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/onsen/"
+                href="http://localhost:1313/zh-tw/tags/onsen/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-aomori/</loc>
+    <loc>http://localhost:1313/ko/posts/beyond-shinkansen-aomori/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/beyond-shinkansen-aomori/"
+                href="http://localhost:1313/posts/beyond-shinkansen-aomori/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-aomori/"
+                href="http://localhost:1313/ko/posts/beyond-shinkansen-aomori/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/"
+                href="http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/accommodation/</loc>
+    <loc>http://localhost:1313/ko/tags/accommodation/</loc>
     <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/accommodation/"
+                href="http://localhost:1313/tags/accommodation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/accommodation/"
+                href="http://localhost:1313/ko/tags/accommodation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/accommodation/"
+                href="http://localhost:1313/zh-tw/tags/accommodation/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/chubu/</loc>
+    <loc>http://localhost:1313/ko/tags/chubu/</loc>
     <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/chubu/"
+                href="http://localhost:1313/tags/chubu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/chubu/"
+                href="http://localhost:1313/ko/tags/chubu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/chubu/"
+                href="http://localhost:1313/zh-tw/tags/chubu/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/nationwide/</loc>
+    <loc>http://localhost:1313/ko/tags/nationwide/</loc>
     <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/nationwide/"
+                href="http://localhost:1313/tags/nationwide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/nationwide/"
+                href="http://localhost:1313/ko/tags/nationwide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/nationwide/"
+                href="http://localhost:1313/zh-tw/tags/nationwide/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/kominka-stays-japan/</loc>
+    <loc>http://localhost:1313/ko/posts/kominka-stays-japan/</loc>
     <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/kominka-stays-japan/"
+                href="http://localhost:1313/posts/kominka-stays-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/kominka-stays-japan/"
+                href="http://localhost:1313/ko/posts/kominka-stays-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/kominka-stays-japan/"
+                href="http://localhost:1313/zh-tw/posts/kominka-stays-japan/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/sento-guide-japan/</loc>
+    <loc>http://localhost:1313/ko/posts/sento-guide-japan/</loc>
     <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/sento-guide-japan/"
+                href="http://localhost:1313/posts/sento-guide-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/sento-guide-japan/"
+                href="http://localhost:1313/ko/posts/sento-guide-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/sento-guide-japan/"
+                href="http://localhost:1313/zh-tw/posts/sento-guide-japan/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/japan-fireworks-festivals/</loc>
+    <loc>http://localhost:1313/ko/posts/japan-fireworks-festivals/</loc>
     <lastmod>2026-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/japan-fireworks-festivals/"
+                href="http://localhost:1313/posts/japan-fireworks-festivals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/japan-fireworks-festivals/"
+                href="http://localhost:1313/ko/posts/japan-fireworks-festivals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/"
+                href="http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/castle-towns/</loc>
+    <loc>http://localhost:1313/ko/tags/castle-towns/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/castle-towns/"
+                href="http://localhost:1313/tags/castle-towns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/castle-towns/"
+                href="http://localhost:1313/ko/tags/castle-towns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/castle-towns/"
+                href="http://localhost:1313/zh-tw/tags/castle-towns/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/chugoku/</loc>
+    <loc>http://localhost:1313/ko/tags/chugoku/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/chugoku/"
+                href="http://localhost:1313/tags/chugoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/chugoku/"
+                href="http://localhost:1313/ko/tags/chugoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/chugoku/"
+                href="http://localhost:1313/zh-tw/tags/chugoku/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/coastal/</loc>
+    <loc>http://localhost:1313/ko/tags/coastal/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/coastal/"
+                href="http://localhost:1313/tags/coastal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/coastal/"
+                href="http://localhost:1313/ko/tags/coastal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/coastal/"
+                href="http://localhost:1313/zh-tw/tags/coastal/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/kansai/</loc>
+    <loc>http://localhost:1313/ko/tags/kansai/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/kansai/"
+                href="http://localhost:1313/tags/kansai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/kansai/"
+                href="http://localhost:1313/ko/tags/kansai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/kansai/"
+                href="http://localhost:1313/zh-tw/tags/kansai/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/kanto/</loc>
+    <loc>http://localhost:1313/ko/tags/kanto/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/kanto/"
+                href="http://localhost:1313/tags/kanto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/kanto/"
+                href="http://localhost:1313/ko/tags/kanto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/kanto/"
+                href="http://localhost:1313/zh-tw/tags/kanto/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/lighthouses/</loc>
+    <loc>http://localhost:1313/ko/tags/lighthouses/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/lighthouses/"
+                href="http://localhost:1313/tags/lighthouses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/lighthouses/"
+                href="http://localhost:1313/ko/tags/lighthouses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/lighthouses/"
+                href="http://localhost:1313/zh-tw/tags/lighthouses/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/castle-towns-near-tokyo/</loc>
+    <loc>http://localhost:1313/ko/privacy-policy/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/castle-towns-near-tokyo/"
+                href="http://localhost:1313/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/castle-towns-near-tokyo/"
+                href="http://localhost:1313/ko/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-tokyo/"
+                href="http://localhost:1313/zh-tw/privacy-policy/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/castle-towns-near-osaka/</loc>
+    <loc>http://localhost:1313/ko/posts/castle-towns-near-tokyo/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/castle-towns-near-osaka/"
+                href="http://localhost:1313/posts/castle-towns-near-tokyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/castle-towns-near-osaka/"
+                href="http://localhost:1313/ko/posts/castle-towns-near-tokyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-osaka/"
+                href="http://localhost:1313/zh-tw/posts/castle-towns-near-tokyo/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/beautiful-lighthouses-japan/</loc>
+    <loc>http://localhost:1313/ko/contact/</loc>
     <lastmod>2026-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/beautiful-lighthouses-japan/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/beautiful-lighthouses-japan/"
+                href="http://localhost:1313/ko/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/"
+                href="http://localhost:1313/zh-tw/contact/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/hiking/</loc>
+    <loc>http://localhost:1313/ko/posts/castle-towns-near-osaka/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/castle-towns-near-osaka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/posts/castle-towns-near-osaka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/posts/castle-towns-near-osaka/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/posts/beautiful-lighthouses-japan/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/beautiful-lighthouses-japan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/posts/beautiful-lighthouses-japan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/posts/beautiful-lighthouses-japan/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/region/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/region/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/region/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/region/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/theme/</loc>
+    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/theme/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/tags/hiking/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/hiking/"
+                href="http://localhost:1313/tags/hiking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/hiking/"
+                href="http://localhost:1313/ko/tags/hiking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/hiking/"
+                href="http://localhost:1313/zh-tw/tags/hiking/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/kyushu/</loc>
+    <loc>http://localhost:1313/ko/tags/kyushu/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/kyushu/"
+                href="http://localhost:1313/tags/kyushu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/kyushu/"
+                href="http://localhost:1313/ko/tags/kyushu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/kyushu/"
+                href="http://localhost:1313/zh-tw/tags/kyushu/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/shikoku/</loc>
+    <loc>http://localhost:1313/ko/tags/shikoku/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/shikoku/"
+                href="http://localhost:1313/tags/shikoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/shikoku/"
+                href="http://localhost:1313/ko/tags/shikoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/shikoku/"
+                href="http://localhost:1313/zh-tw/tags/shikoku/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/temples-shrines/</loc>
+    <loc>http://localhost:1313/ko/tags/temples-shrines/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/temples-shrines/"
+                href="http://localhost:1313/tags/temples-shrines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/temples-shrines/"
+                href="http://localhost:1313/ko/tags/temples-shrines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/temples-shrines/"
+                href="http://localhost:1313/zh-tw/tags/temples-shrines/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/trains/</loc>
+    <loc>http://localhost:1313/ko/tags/trains/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/trains/"
+                href="http://localhost:1313/tags/trains/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/trains/"
+                href="http://localhost:1313/ko/tags/trains/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/trains/"
+                href="http://localhost:1313/zh-tw/tags/trains/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/waterfalls/</loc>
+    <loc>http://localhost:1313/ko/tags/waterfalls/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/tags/waterfalls/"
+                href="http://localhost:1313/tags/waterfalls/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/tags/waterfalls/"
+                href="http://localhost:1313/ko/tags/waterfalls/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/tags/waterfalls/"
+                href="http://localhost:1313/zh-tw/tags/waterfalls/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EA%B8%B0%EC%B0%A8%EC%97%AC%ED%96%89/</loc>
+    <loc>http://localhost:1313/ko/tags/%EA%B8%B0%EC%B0%A8%EC%97%AC%ED%96%89/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EB%8F%84%ED%98%B8%EC%BF%A0/</loc>
+    <loc>http://localhost:1313/ko/tags/%EB%8F%84%ED%98%B8%EC%BF%A0/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EB%A3%8C%EC%B9%B8/</loc>
+    <loc>http://localhost:1313/ko/tags/%EB%A3%8C%EC%B9%B8/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%82%AC%EC%9B%90/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%82%AC%EC%9B%90/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/hidden-temples-tohoku/</loc>
+    <loc>http://localhost:1313/ko/posts/hidden-temples-tohoku/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/hidden-temples-tohoku/"
+                href="http://localhost:1313/ko/posts/hidden-temples-tohoku/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/hidden-temples-tohoku/"
+                href="http://localhost:1313/zh-tw/posts/hidden-temples-tohoku/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%88%A8%EA%B2%A8%EC%A7%84%EB%AA%85%EC%86%8C/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%88%A8%EA%B2%A8%EC%A7%84%EB%AA%85%EC%86%8C/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%8B%9C%EA%B3%A8%EC%9D%8C%EC%8B%9D/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%8B%9C%EA%B3%A8%EC%9D%8C%EC%8B%9D/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%98%A8%EC%B2%9C/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%98%A8%EC%B2%9C/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%9D%8C%EC%8B%9D/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%9D%8C%EC%8B%9D/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/rural-food-japan/</loc>
+    <loc>http://localhost:1313/ko/posts/rural-food-japan/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/rural-food-japan/"
+                href="http://localhost:1313/posts/rural-food-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/rural-food-japan/"
+                href="http://localhost:1313/ko/posts/rural-food-japan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/rural-food-japan/"
+                href="http://localhost:1313/zh-tw/posts/rural-food-japan/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%9D%BC%EB%B3%B8%EC%97%AC%ED%96%89/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%9D%BC%EB%B3%B8%EC%97%AC%ED%96%89/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/scenic-train-rides/</loc>
+    <loc>http://localhost:1313/ko/posts/scenic-train-rides/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/scenic-train-rides/"
+                href="http://localhost:1313/posts/scenic-train-rides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/scenic-train-rides/"
+                href="http://localhost:1313/ko/posts/scenic-train-rides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/scenic-train-rides/"
+                href="http://localhost:1313/zh-tw/posts/scenic-train-rides/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/hidden-onsen-towns/</loc>
+    <loc>http://localhost:1313/ko/posts/hidden-onsen-towns/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/hidden-onsen-towns/"
+                href="http://localhost:1313/posts/hidden-onsen-towns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/hidden-onsen-towns/"
+                href="http://localhost:1313/ko/posts/hidden-onsen-towns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/"
+                href="http://localhost:1313/zh-tw/posts/hidden-onsen-towns/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/</loc>
+    <loc>http://localhost:1313/ko/posts/hidden-waterfalls/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/posts/hidden-waterfalls/"
+                href="http://localhost:1313/posts/hidden-waterfalls/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/"
+                href="http://localhost:1313/ko/posts/hidden-waterfalls/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/posts/hidden-waterfalls/"
+                href="http://localhost:1313/zh-tw/posts/hidden-waterfalls/"
                 />
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%EC%A7%80%EC%97%AD%EC%97%B4%EC%B0%A8/</loc>
+    <loc>http://localhost:1313/ko/tags/%EC%A7%80%EC%97%AD%EC%97%B4%EC%B0%A8/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/tags/%ED%8F%AD%ED%8F%AC/</loc>
+    <loc>http://localhost:1313/ko/tags/%ED%8F%AD%ED%8F%AC/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hidden-japan.tokyo/ko/categories/</loc>
+    <loc>http://localhost:1313/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hidden-japan.tokyo/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hidden-japan.tokyo/ko/categories/"
+                href="http://localhost:1313/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hidden-japan.tokyo/zh-tw/categories/"
+                href="http://localhost:1313/zh-tw/categories/"
                 />
   </url>
 </urlset>

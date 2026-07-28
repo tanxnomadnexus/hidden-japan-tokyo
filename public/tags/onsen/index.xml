@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Onsen on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/tags/onsen/</link>
+    <link>http://localhost:1313/tags/onsen/</link>
     <description>Recent content in Onsen on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/tags/onsen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/onsen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond the Shinkansen Stop: Aomori</title>
-      <link>https://hidden-japan.tokyo/posts/beyond-shinkansen-aomori/</link>
+      <link>http://localhost:1313/posts/beyond-shinkansen-aomori/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/beyond-shinkansen-aomori/</guid>
+      <guid>http://localhost:1313/posts/beyond-shinkansen-aomori/</guid>
       <description>Most travelers pass straight through Shin-Aomori without stopping. Here&amp;#39;s why that&amp;#39;s a mistake — and what&amp;#39;s waiting if you get off the train.</description>
     </item>
     <item>
       <title>Japan&#39;s Sento Culture: A Guide to the Local Public Bath</title>
-      <link>https://hidden-japan.tokyo/posts/sento-guide-japan/</link>
+      <link>http://localhost:1313/posts/sento-guide-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/sento-guide-japan/</guid>
+      <guid>http://localhost:1313/posts/sento-guide-japan/</guid>
       <description>What a sento actually is, how it differs from a tourist onsen, and why stepping into a local public bath is one of the most genuine experiences Japan offers.</description>
     </item>
     <item>
       <title>5 Hidden Onsen Towns in Japan Away from the Crowds (2026 Guide)</title>
-      <link>https://hidden-japan.tokyo/posts/hidden-onsen-towns/</link>
+      <link>http://localhost:1313/posts/hidden-onsen-towns/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/hidden-onsen-towns/</guid>
+      <guid>http://localhost:1313/posts/hidden-onsen-towns/</guid>
       <description>Five off-the-radar hot spring towns in Japan — including a free riverside rotemburo open 24/7 and a century-old ryokan deep in an Aomori beech forest.</description>
     </item>
   </channel>

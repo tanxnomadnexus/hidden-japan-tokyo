@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chugoku on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/tags/chugoku/</link>
+    <link>http://localhost:1313/tags/chugoku/</link>
     <description>Recent content in Chugoku on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/tags/chugoku/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chugoku/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hidden Castle Towns Near Osaka: 5 Day Trips Most Tourists Miss</title>
-      <link>https://hidden-japan.tokyo/posts/castle-towns-near-osaka/</link>
+      <link>http://localhost:1313/posts/castle-towns-near-osaka/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/castle-towns-near-osaka/</guid>
+      <guid>http://localhost:1313/posts/castle-towns-near-osaka/</guid>
       <description>Five historic castle towns within 3 hours of Osaka — including Japan&amp;#39;s oldest surviving keep and a castle that floats above the clouds. All doable as day trips.</description>
     </item>
   </channel>

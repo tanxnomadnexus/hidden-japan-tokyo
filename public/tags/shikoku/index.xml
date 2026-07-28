@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shikoku on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/tags/shikoku/</link>
+    <link>http://localhost:1313/tags/shikoku/</link>
     <description>Recent content in Shikoku on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/tags/shikoku/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/shikoku/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Japan&#39;s Most Scenic Local Train Rides: 5 Routes Worth the Detour</title>
-      <link>https://hidden-japan.tokyo/posts/scenic-train-rides/</link>
+      <link>http://localhost:1313/posts/scenic-train-rides/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/posts/scenic-train-rides/</guid>
+      <guid>http://localhost:1313/posts/scenic-train-rides/</guid>
       <description>Five of Japan&amp;#39;s most beautiful local train journeys — coastal cliff lines, highland valleys, and routes where you might be the only foreign passenger on board.</description>
     </item>
   </channel>

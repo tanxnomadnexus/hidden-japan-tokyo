@@ -2,101 +2,190 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/ko/</link>
+    <link>http://localhost:1313/ko/</link>
     <description>Recent content on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/ko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>신칸센 역을 넘어서: 모리오카</title>
-      <link>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/</link>
+      <link>http://localhost:1313/ko/posts/beyond-shinkansen-morioka/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/</guid>
+      <guid>http://localhost:1313/ko/posts/beyond-shinkansen-morioka/</guid>
       <description>뉴욕타임스가 2023년 세계 최고 여행지로 선정했다. 그런데도 대부분의 여행자는 그냥 지나친다. 모리오카에서 놓치고 있는 것들.</description>
     </item>
     <item>
       <title>신칸센 역을 넘어서: 아오모리</title>
-      <link>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-aomori/</link>
+      <link>http://localhost:1313/ko/posts/beyond-shinkansen-aomori/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-aomori/</guid>
+      <guid>http://localhost:1313/ko/posts/beyond-shinkansen-aomori/</guid>
       <description>대부분의 여행자들은 신아오모리역을 그냥 지나친다. 하지만 여기서 내리면 무엇이 기다리고 있는지—그것이 바로 실수인 이유다.</description>
     </item>
     <item>
       <title>고민카 스테이: 일본 전통 농가에서 하룻밤 보내기</title>
-      <link>https://hidden-japan.tokyo/ko/posts/kominka-stays-japan/</link>
+      <link>http://localhost:1313/ko/posts/kominka-stays-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/kominka-stays-japan/</guid>
+      <guid>http://localhost:1313/ko/posts/kominka-stays-japan/</guid>
       <description>일본 전통 고민카(古民家) 숙박이란 무엇인지, 어디서 찾을 수 있는지, 어떤 경험을 할 수 있는지 실용적인 가이드를 소개합니다.</description>
     </item>
     <item>
       <title>일본의 센토 문화: 동네 공중목욕탕 완벽 가이드</title>
-      <link>https://hidden-japan.tokyo/ko/posts/sento-guide-japan/</link>
+      <link>http://localhost:1313/ko/posts/sento-guide-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/sento-guide-japan/</guid>
+      <guid>http://localhost:1313/ko/posts/sento-guide-japan/</guid>
       <description>센토란 무엇인지, 관광지 온천과 어떻게 다른지, 그리고 동네 공중목욕탕에 들어가는 것이 왜 일본이 제공하는 가장 진솔한 경험 중 하나인지 설명합니다.</description>
     </item>
     <item>
       <title>일본의 위대한 불꽃놀이 축제: 여행 일정을 짤 만한 4곳의 하나비 대회</title>
-      <link>https://hidden-japan.tokyo/ko/posts/japan-fireworks-festivals/</link>
+      <link>http://localhost:1313/ko/posts/japan-fireworks-festivals/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/japan-fireworks-festivals/</guid>
+      <guid>http://localhost:1313/ko/posts/japan-fireworks-festivals/</guid>
       <description>규모, 예술성, 그리고 압도적인 체감으로 여름 저녁을 잊을 수 없는 경험으로 만드는 일본 최고의 불꽃놀이 축제 4곳을 소개합니다.</description>
     </item>
     <item>
-      <title>도쿄 근교의 숨겨진 성곽 마을: 관광 코스를 벗어난 5곳의 당일치기 여행</title>
-      <link>https://hidden-japan.tokyo/ko/posts/castle-towns-near-tokyo/</link>
+      <title>개인정보처리방침</title>
+      <link>http://localhost:1313/ko/privacy-policy/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/castle-towns-near-tokyo/</guid>
+      <guid>http://localhost:1313/ko/privacy-policy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;최종 업데이트: 2026년 6월 27일&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;소개&#34;&gt;소개&lt;/h2&gt;
+&lt;p&gt;Hidden Japan Tokyo(&amp;ldquo;당사&amp;rdquo;)는 hidden-japan.tokyo 웹사이트를 운영합니다. 이 페이지는 사이트 방문 시 저희가 정보를 수집, 사용, 보호하는 방식을 설명합니다.&lt;/p&gt;
+&lt;h2 id=&#34;수집하는-정보&#34;&gt;수집하는 정보&lt;/h2&gt;
+&lt;h3 id=&#34;자동으로-수집되는-정보&#34;&gt;자동으로 수집되는 정보&lt;/h3&gt;
+&lt;p&gt;사이트 방문 시 다음 정보를 자동으로 수집할 수 있습니다:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;브라우저 종류 및 버전&lt;/li&gt;
+&lt;li&gt;방문한 페이지 및 페이지별 체류 시간&lt;/li&gt;
+&lt;li&gt;유입 경로(referring website)&lt;/li&gt;
+&lt;li&gt;대략적인 위치 정보(국가/지역 단위)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이 정보는 쿠키 및 유사 기술을 통해 수집됩니다.&lt;/p&gt;
+&lt;h3 id=&#34;이용자가-제공하는-정보&#34;&gt;이용자가 제공하는 정보&lt;/h3&gt;
+&lt;p&gt;회원가입이나 계정 생성은 필요하지 않습니다. 이메일로 문의하실 경우, 이용자가 직접 제공하는 정보만 수집합니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>도쿄 근교의 숨겨진 성곽 마을: 관광 코스를 벗어난 5곳의 당일치기 여행</title>
+      <link>http://localhost:1313/ko/posts/castle-towns-near-tokyo/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/posts/castle-towns-near-tokyo/</guid>
       <description>대부분의 외국인 방문객들이 놓치는, 도쿄 근교의 역사적인 성곽 마을 5곳을 소개합니다.</description>
     </item>
     <item>
-      <title>오사카 근교의 숨겨진 성곽 마을: 관광 코스를 벗어난 5곳의 당일치기 여행</title>
-      <link>https://hidden-japan.tokyo/ko/posts/castle-towns-near-osaka/</link>
+      <title>문의하기</title>
+      <link>http://localhost:1313/ko/contact/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/castle-towns-near-osaka/</guid>
+      <guid>http://localhost:1313/ko/contact/</guid>
+      <description>&lt;h2 id=&#34;연락하기&#34;&gt;연락하기&lt;/h2&gt;
+&lt;p&gt;일본 여행에 대해 궁금한 점이 있으신가요? 저희 가이드에서 오류를 발견하셨나요? 아직 다루지 않은 숨겨진 명소를 알고 계신가요?&lt;/p&gt;
+&lt;p&gt;언제든 연락해 주세요.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이메일:&lt;/strong&gt; &lt;a href=&#34;mailto:contact@hidden-japan.tokyo&#34;&gt;contact@hidden-japan.tokyo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;영업일 기준 2~3일 이내에 답변드리겠습니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;이런-문의를-도와드립니다&#34;&gt;이런 문의를 도와드립니다&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;여행 관련 질문&lt;/strong&gt; — 사이트에 소개된 특정 여행지에 대한 조언을 기꺼이 드립니다&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;정보 수정&lt;/strong&gt; — 저희가 소개한 장소를 방문하셨는데 정보가 달라졌다면 알려주세요&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;제안&lt;/strong&gt; — 더 많은 관심을 받을 만한 일본의 숨겨진 명소를 알고 계신가요? 알려주세요&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;미디어 및 파트너십&lt;/strong&gt; — 협업 문의는 프로젝트에 대한 자세한 내용을 함께 보내주세요&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hidden-japan-tokyo-소개&#34;&gt;Hidden Japan Tokyo 소개&lt;/h2&gt;
+&lt;p&gt;Hidden Japan Tokyo는 일본 전역의 잘 알려지지 않은 여행지를 소개하는 독립 여행 가이드입니다 — 여행 책자의 표지를 장식하지는 않지만, 직접 찾아가는 여행자에게 그만한 보람을 안겨주는 그런 장소들을 다룹니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>오사카 근교의 숨겨진 성곽 마을: 관광 코스를 벗어난 5곳의 당일치기 여행</title>
+      <link>http://localhost:1313/ko/posts/castle-towns-near-osaka/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/posts/castle-towns-near-osaka/</guid>
       <description>대부분의 외국인 방문객들이 놓치는, 오사카 근교의 역사적인 성곽 마을 5곳을 소개합니다.</description>
     </item>
     <item>
       <title>일본의 아름다운 등대들: 혼슈 해안선을 따라 만나는 경치 좋은 7곳</title>
-      <link>https://hidden-japan.tokyo/ko/posts/beautiful-lighthouses-japan/</link>
+      <link>http://localhost:1313/ko/posts/beautiful-lighthouses-japan/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/beautiful-lighthouses-japan/</guid>
+      <guid>http://localhost:1313/ko/posts/beautiful-lighthouses-japan/</guid>
       <description>혼슈 해안선을 따라 만날 수 있는 아름답고 한적한 등대 7곳을 소개합니다.</description>
     </item>
     <item>
+      <title>지역별로 둘러보기</title>
+      <link>http://localhost:1313/ko/region/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/region/</guid>
+      <description>&lt;p&gt;일본 주요 지역에 숨겨진 여행지를 찾아보세요. 각 링크를 클릭하면 해당 지역의 모든 가이드를 볼 수 있습니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tohoku-東北&#34;&gt;Tohoku 東北&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;아오모리, 아키타, 이와테, 미야기, 야마가타, 후쿠시마&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/tohoku/&#34;&gt;→ 도호쿠 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;kanto-関東&#34;&gt;Kanto 関東&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;도쿄, 가나가와, 지바, 사이타마, 이바라키, 도치기, 군마&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/kanto/&#34;&gt;→ 간토 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chubu-中部&#34;&gt;Chubu 中部&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;니가타, 나가노, 야마나시, 시즈오카, 아이치, 기후, 도야마, 이시카와, 후쿠이&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/chubu/&#34;&gt;→ 주부 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;kansai-関西&#34;&gt;Kansai 関西&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;오사카, 교토, 효고, 나라, 와카야마, 시가, 미에&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/kansai/&#34;&gt;→ 간사이 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>테마별로 둘러보기</title>
+      <link>http://localhost:1313/ko/theme/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/theme/</guid>
+      <description>&lt;p&gt;좋아하는 여행 스타일로 숨겨진 일본을 찾아보세요. 각 링크를 클릭하면 해당 테마의 모든 가이드를 볼 수 있습니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;温泉-온천&#34;&gt;温泉 온천&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;온천 마을, 료칸 숙박, 목욕 문화&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/onsen/&#34;&gt;→ 온천 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;寺社-사찰과-신사&#34;&gt;寺社 사찰과 신사&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;유서 깊은 사찰, 산속 신사, 순례길&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/temples-shrines/&#34;&gt;→ 사찰·신사 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;城下町-성곽-마을&#34;&gt;城下町 성곽 마을&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;봉건시대 성곽 마을, 사무라이 거리, 상인 거리&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/castle-towns/&#34;&gt;→ 성곽 마을 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;自然-자연&#34;&gt;自然 자연&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;아름다운 풍경, 국립공원, 자연의 경이&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ko/tags/nature/&#34;&gt;→ 자연 가이드 전체 보기&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>숨겨진 일본 사원: 도호쿠의 방문할 가치 있는 5곳의 외진 신사</title>
-      <link>https://hidden-japan.tokyo/ko/posts/hidden-temples-tohoku/</link>
+      <link>http://localhost:1313/ko/posts/hidden-temples-tohoku/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/hidden-temples-tohoku/</guid>
+      <guid>http://localhost:1313/ko/posts/hidden-temples-tohoku/</guid>
       <description>교토의 인파를 피해, 도호쿠의 분위기 있는 역사적 사원과 신사 5곳을 소개합니다.</description>
     </item>
     <item>
       <title>일본 시골 음식: 도시를 떠나야 만날 수 있는 5가지 일본 현지 음식 경험</title>
-      <link>https://hidden-japan.tokyo/ko/posts/rural-food-japan/</link>
+      <link>http://localhost:1313/ko/posts/rural-food-japan/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/rural-food-japan/</guid>
+      <guid>http://localhost:1313/ko/posts/rural-food-japan/</guid>
       <description>관광 코스를 벗어난 일본 시골의 진짜 현지 음식 경험 5가지를 소개합니다.</description>
     </item>
     <item>
       <title>일본의 가장 아름다운 지역 열차 여행, 인파를 피해서</title>
-      <link>https://hidden-japan.tokyo/ko/posts/scenic-train-rides/</link>
+      <link>http://localhost:1313/ko/posts/scenic-train-rides/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/scenic-train-rides/</guid>
+      <guid>http://localhost:1313/ko/posts/scenic-train-rides/</guid>
       <description>신칸센이 보여주지 않는 진짜 일본을 만날 수 있는, 경치 좋은 지역 열차 노선 5곳을 소개합니다.</description>
     </item>
     <item>
       <title>일본의 숨겨진 온천 마을 5곳, 인파를 피해서</title>
-      <link>https://hidden-japan.tokyo/ko/posts/hidden-onsen-towns/</link>
+      <link>http://localhost:1313/ko/posts/hidden-onsen-towns/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/hidden-onsen-towns/</guid>
+      <guid>http://localhost:1313/ko/posts/hidden-onsen-towns/</guid>
       <description>대부분의 외국인 여행자들이 모르는, 일본의 진짜 온천 마을 5곳을 소개합니다.</description>
     </item>
     <item>
       <title>일본의 숨겨진 폭포: 대부분의 관광객이 찾지 못하는 5곳</title>
-      <link>https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/</link>
+      <link>http://localhost:1313/ko/posts/hidden-waterfalls/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/hidden-waterfalls/</guid>
+      <guid>http://localhost:1313/ko/posts/hidden-waterfalls/</guid>
       <description>대부분의 관광객이 찾지 못하는 일본 시골의 숨겨진 폭포 5곳을 소개합니다.</description>
     </item>
   </channel>

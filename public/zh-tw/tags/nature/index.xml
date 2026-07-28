@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nature on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/zh-tw/tags/nature/</link>
+    <link>http://localhost:1313/zh-tw/tags/nature/</link>
     <description>Recent content in Nature on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/zh-tw/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新幹線站之外：盛岡</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</link>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</guid>
       <description>《紐約時報》在2023年將其列為全球必訪之地。但大多數旅客仍直接路過。盛岡究竟有什麼值得停留。</description>
     </item>
     <item>
       <title>新幹線站之外：青森</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</link>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/</guid>
       <description>大多數旅人在新青森站一晃而過。但如果你在這裡下車，等待著你的會是什麼——以及為什麼不下車是個錯誤。</description>
     </item>
     <item>
       <title>日本的錢湯文化：在地公共澡堂完全指南</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/sento-guide-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/sento-guide-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/sento-guide-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/sento-guide-japan/</guid>
       <description>什麼是錢湯、它與觀光溫泉有何不同，以及為何走進一間在地公共澡堂是日本最真實的體驗之一。</description>
     </item>
     <item>
       <title>日本最盛大的煙火祭典：4場值得專程安排行程的花火大會</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/</link>
+      <link>http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/</guid>
       <description>四場日本最壯觀的煙火祭典——以規模、藝術性與震撼的感官衝擊，將夏夜變成畢生難忘的體驗。</description>
     </item>
     <item>
       <title>古民家住宿：在日本傳統農家過一夜</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/kominka-stays-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/kominka-stays-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/kominka-stays-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/kominka-stays-japan/</guid>
       <description>什麼是古民家住宿、在哪裡找到真正的古民家，以及入住後能期待什麼體驗——一份實用指南。</description>
     </item>
     <item>
       <title>日本美麗的燈塔：沿著本州海岸線的7處絕美景點</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/beautiful-lighthouses-japan/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beautiful-lighthouses-japan/</guid>
       <description>本州海岸線上七座最美麗、最少人造訪的燈塔景點。</description>
     </item>
     <item>
       <title>日本五個隱藏版溫泉小鎮，遠離人潮</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/</link>
+      <link>http://localhost:1313/zh-tw/posts/hidden-onsen-towns/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/hidden-onsen-towns/</guid>
       <description>探索大多數外國遊客從未發現的日本隱藏版溫泉小鎮。</description>
     </item>
     <item>
       <title>日本鄉間美食：5種值得離開城市才能體驗的日本當地美食</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/rural-food-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/rural-food-japan/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/rural-food-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/rural-food-japan/</guid>
       <description>探索觀光路線以外的日本鄉間道地美食體驗。</description>
     </item>
     <item>
       <title>日本隱藏版寺廟：東北地區5座值得北上一探的秘境神社</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/hidden-temples-tohoku/</link>
+      <link>http://localhost:1313/zh-tw/posts/hidden-temples-tohoku/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/hidden-temples-tohoku/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/hidden-temples-tohoku/</guid>
       <description>避開京都的人潮，探索東北地區最具氛圍感、歷史最深厚的5座寺廟與神社。</description>
     </item>
     <item>
       <title>日本隱藏瀑布：5座大多數觀光客從未發現的瀑布</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/hidden-waterfalls/</link>
+      <link>http://localhost:1313/zh-tw/posts/hidden-waterfalls/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/hidden-waterfalls/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/hidden-waterfalls/</guid>
       <description>探索大多數觀光客從未發現的日本鄉間隱藏瀑布。</description>
     </item>
   </channel>

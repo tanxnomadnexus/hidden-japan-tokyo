@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Festivals on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/zh-tw/tags/festivals/</link>
+    <link>http://localhost:1313/zh-tw/tags/festivals/</link>
     <description>Recent content in Festivals on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/zh-tw/tags/festivals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/tags/festivals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新幹線站之外：盛岡</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</link>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</guid>
       <description>《紐約時報》在2023年將其列為全球必訪之地。但大多數旅客仍直接路過。盛岡究竟有什麼值得停留。</description>
     </item>
     <item>
       <title>新幹線站之外：青森</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</link>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/</guid>
       <description>大多數旅人在新青森站一晃而過。但如果你在這裡下車，等待著你的會是什麼——以及為什麼不下車是個錯誤。</description>
     </item>
     <item>
       <title>日本最盛大的煙火祭典：4場值得專程安排行程的花火大會</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/</link>
+      <link>http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/</guid>
       <description>四場日本最壯觀的煙火祭典——以規模、藝術性與震撼的感官衝擊，將夏夜變成畢生難忘的體驗。</description>
     </item>
   </channel>

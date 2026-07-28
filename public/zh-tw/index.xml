@@ -2,101 +2,279 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/zh-tw/</link>
+    <link>http://localhost:1313/zh-tw/</link>
     <description>Recent content on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新幹線站之外：盛岡</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</link>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-morioka/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</guid>
       <description>《紐約時報》在2023年將其列為全球必訪之地。但大多數旅客仍直接路過。盛岡究竟有什麼值得停留。</description>
     </item>
     <item>
       <title>新幹線站之外：青森</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</link>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beyond-shinkansen-aomori/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-aomori/</guid>
       <description>大多數旅人在新青森站一晃而過。但如果你在這裡下車，等待著你的會是什麼——以及為什麼不下車是個錯誤。</description>
     </item>
     <item>
       <title>日本的錢湯文化：在地公共澡堂完全指南</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/sento-guide-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/sento-guide-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/sento-guide-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/sento-guide-japan/</guid>
       <description>什麼是錢湯、它與觀光溫泉有何不同，以及為何走進一間在地公共澡堂是日本最真實的體驗之一。</description>
     </item>
     <item>
       <title>日本最盛大的煙火祭典：4場值得專程安排行程的花火大會</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/</link>
+      <link>http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/japan-fireworks-festivals/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/japan-fireworks-festivals/</guid>
       <description>四場日本最壯觀的煙火祭典——以規模、藝術性與震撼的感官衝擊，將夏夜變成畢生難忘的體驗。</description>
     </item>
     <item>
       <title>古民家住宿：在日本傳統農家過一夜</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/kominka-stays-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/kominka-stays-japan/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/kominka-stays-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/kominka-stays-japan/</guid>
       <description>什麼是古民家住宿、在哪裡找到真正的古民家，以及入住後能期待什麼體驗——一份實用指南。</description>
     </item>
     <item>
       <title>大阪近郊的隱藏版城下町：跳脫觀光路線的5處一日遊景點</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-osaka/</link>
+      <link>http://localhost:1313/zh-tw/posts/castle-towns-near-osaka/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-osaka/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/castle-towns-near-osaka/</guid>
       <description>大多數外國遊客完全錯過的，大阪近郊5座歷史城下町。</description>
     </item>
     <item>
       <title>日本美麗的燈塔：沿著本州海岸線的7處絕美景點</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/beautiful-lighthouses-japan/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/beautiful-lighthouses-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/beautiful-lighthouses-japan/</guid>
       <description>本州海岸線上七座最美麗、最少人造訪的燈塔景點。</description>
     </item>
     <item>
-      <title>東京近郊的隱藏版城下町：跳脫觀光路線的5處一日遊景點</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-tokyo/</link>
+      <title>依主題探索</title>
+      <link>http://localhost:1313/zh-tw/theme/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/castle-towns-near-tokyo/</guid>
+      <guid>http://localhost:1313/zh-tw/theme/</guid>
+      <description>&lt;p&gt;依照你喜歡的旅行方式，找到隱藏版日本。點擊連結即可看到該主題的所有文章。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;温泉-溫泉&#34;&gt;温泉 溫泉&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;溫泉小鎮、旅館住宿與泡湯文化&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/onsen/&#34;&gt;→ 查看所有溫泉指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;寺社-寺廟與神社&#34;&gt;寺社 寺廟與神社&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;歷史悠久的寺廟、山中神社與朝聖路線&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/temples-shrines/&#34;&gt;→ 查看所有寺廟神社指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;城下町-城下町&#34;&gt;城下町 城下町&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;封建時代的城下町、武士街區與商人街&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/castle-towns/&#34;&gt;→ 查看所有城下町指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;自然-自然景觀&#34;&gt;自然 自然景觀&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;壯麗風景、國家公園與自然奇景&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/nature/&#34;&gt;→ 查看所有自然景觀指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;滝-瀑布&#34;&gt;滝 瀑布&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;隱藏版瀑布與河谷&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/waterfalls/&#34;&gt;→ 查看所有瀑布指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;灯台-燈塔&#34;&gt;灯台 燈塔&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;沿海燈塔與壯觀岬角&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/lighthouses/&#34;&gt;→ 查看所有燈塔指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;鉄道-地方鐵道&#34;&gt;鉄道 地方鐵道&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;地方鐵道之旅與風景路線&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/trains/&#34;&gt;→ 查看所有鐵道指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;食-美食與飲品&#34;&gt;食 美食與飲品&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;地方美食體驗、鄉土料理與地區特產&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/food/&#34;&gt;→ 查看所有美食指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ハイキング-健行&#34;&gt;ハイキング 健行&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;山徑、林間步道與朝聖之路&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/hiking/&#34;&gt;→ 查看所有健行指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;海岸-海岸&#34;&gt;海岸 海岸&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;海邊小鎮、漁村與離島之旅&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/coastal/&#34;&gt;→ 查看所有海岸指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;祭り-祭典&#34;&gt;祭り 祭典&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;傳統祭典與季節性活動&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/festivals/&#34;&gt;→ 查看所有祭典指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;宿-住宿&#34;&gt;宿 住宿&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;旅館、民宿與獨特住宿體驗&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/accommodation/&#34;&gt;→ 查看所有住宿指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;冬-冬季&#34;&gt;冬 冬季&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;雪景、冬季溫泉與寒季旅行&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/winter/&#34;&gt;→ 查看所有冬季指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;庭園-庭園&#34;&gt;庭園 庭園&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;傳統庭園、公園與綠地&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/gardens/&#34;&gt;→ 查看所有庭園指南&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>依地區探索</title>
+      <link>http://localhost:1313/zh-tw/region/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/region/</guid>
+      <description>&lt;p&gt;探索日本各主要地區的隱藏版景點。點擊連結即可看到該地區的所有文章。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tohoku-東北&#34;&gt;Tohoku 東北&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;青森、秋田、岩手、宮城、山形、福島&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/tohoku/&#34;&gt;→ 查看所有東北指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;kanto-関東&#34;&gt;Kanto 関東&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;東京、神奈川、千葉、埼玉、茨城、栃木、群馬&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/kanto/&#34;&gt;→ 查看所有關東指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chubu-中部&#34;&gt;Chubu 中部&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;新潟、長野、山梨、靜岡、愛知、岐阜、富山、石川、福井&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/chubu/&#34;&gt;→ 查看所有中部指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;kansai-関西&#34;&gt;Kansai 関西&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;大阪、京都、兵庫、奈良、和歌山、滋賀、三重&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/kansai/&#34;&gt;→ 查看所有關西指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chugoku-中国地方&#34;&gt;Chugoku 中国地方&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;鳥取、島根、岡山、廣島、山口&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/chugoku/&#34;&gt;→ 查看所有中國地方指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;shikoku-四国&#34;&gt;Shikoku 四国&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;德島、香川、愛媛、高知&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/shikoku/&#34;&gt;→ 查看所有四國指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;kyushu-九州&#34;&gt;Kyushu 九州&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;福岡、佐賀、長崎、熊本、大分、宮崎、鹿兒島&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/kyushu/&#34;&gt;→ 查看所有九州指南&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;nationwide-全国&#34;&gt;Nationwide 全国&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;橫跨日本各地的綜合指南&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zh-tw/tags/nationwide/&#34;&gt;→ 查看所有全國指南&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>東京近郊的隱藏版城下町：跳脫觀光路線的5處一日遊景點</title>
+      <link>http://localhost:1313/zh-tw/posts/castle-towns-near-tokyo/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/castle-towns-near-tokyo/</guid>
       <description>大多數外國遊客完全錯過的，東京近郊5座歷史城下町。</description>
     </item>
     <item>
+      <title>聯絡我們</title>
+      <link>http://localhost:1313/zh-tw/contact/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/contact/</guid>
+      <description>&lt;h2 id=&#34;與我們聯繫&#34;&gt;與我們聯繫&lt;/h2&gt;
+&lt;p&gt;對於在日本旅行有任何疑問嗎？發現我們的指南中有錯誤嗎？知道我們尚未介紹過、值得一寫的隱藏景點嗎？&lt;/p&gt;
+&lt;p&gt;歡迎與我們聯繫。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;電子郵件：&lt;/strong&gt; &lt;a href=&#34;mailto:contact@hidden-japan.tokyo&#34;&gt;contact@hidden-japan.tokyo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我們將於2〜3個工作天內回覆。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;我們能協助的事項&#34;&gt;我們能協助的事項&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;旅遊相關問題&lt;/strong&gt; — 樂於針對本站介紹過的特定景點提供建議&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;內容修正&lt;/strong&gt; — 如果你造訪過我們寫過的地點，發現資訊有變動，歡迎告訴我們&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;景點推薦&lt;/strong&gt; — 知道值得更多關注的日本隱藏景點嗎？告訴我們吧&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;媒體與合作提案&lt;/strong&gt; — 若有合作邀約，請附上專案的詳細說明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;關於-hidden-japan-tokyo&#34;&gt;關於 Hidden Japan Tokyo&lt;/h2&gt;
+&lt;p&gt;Hidden Japan Tokyo 是一個獨立的旅遊指南網站，專注於介紹日本各地較少人知的旅遊景點——那些不會登上旅遊書封面、卻能為主動尋訪的旅人帶來驚喜回報的地方。&lt;/p&gt;
+&lt;p&gt;我們主要為英語圈訪客撰寫內容，同時也提供韓文與繁體中文版本的指南。&lt;/p&gt;
+&lt;p&gt;我們與任何觀光局或政府機構皆無關聯。所有推薦皆基於個人調查與旅行經驗。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;關於廣告與聯盟行銷揭露資訊，請參閱我們的&lt;a href=&#34;http://localhost:1313/zh-tw/privacy-policy/&#34;&gt;隱私權政策&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>隱私權政策</title>
+      <link>http://localhost:1313/zh-tw/privacy-policy/</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/privacy-policy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;最後更新：2026年6月27日&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;簡介&#34;&gt;簡介&lt;/h2&gt;
+&lt;p&gt;Hidden Japan Tokyo（以下稱「我們」）營運 hidden-japan.tokyo 網站。本頁面說明我們在你造訪本站時，如何收集、使用及保護相關資訊。&lt;/p&gt;
+&lt;h2 id=&#34;我們收集的資訊&#34;&gt;我們收集的資訊&lt;/h2&gt;
+&lt;h3 id=&#34;自動收集的資訊&#34;&gt;自動收集的資訊&lt;/h3&gt;
+&lt;p&gt;當你造訪本站時，我們可能自動收集以下資訊：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;瀏覽器類型與版本&lt;/li&gt;
+&lt;li&gt;造訪的頁面及各頁面停留時間&lt;/li&gt;
+&lt;li&gt;來源網站（referring website）&lt;/li&gt;
+&lt;li&gt;大致地理位置（僅限國家/地區層級）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這些資訊透過Cookie及類似技術收集。&lt;/p&gt;
+&lt;h3 id=&#34;使用者主動提供的資訊&#34;&gt;使用者主動提供的資訊&lt;/h3&gt;
+&lt;p&gt;我們不需要註冊或建立帳號。若你透過電子郵件與我們聯繫，我們僅收集你主動提供的資訊。&lt;/p&gt;
+&lt;h2 id=&#34;cookie&#34;&gt;Cookie&lt;/h2&gt;
+&lt;p&gt;我們基於以下目的使用Cookie：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分析：&lt;/strong&gt; 我們使用Google Analytics來了解訪客如何使用本站。Google Analytics會收集匿名化的頁面瀏覽與使用者行為資料。你可以透過&lt;a href=&#34;https://tools.google.com/dlpage/gaoptout&#34;&gt;Google退出工具&lt;/a&gt;選擇退出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;廣告：&lt;/strong&gt; 我們使用Google AdSense來顯示廣告。Google可能使用Cookie根據你的興趣顯示廣告。你可以透過&lt;a href=&#34;https://adssettings.google.com/&#34;&gt;Google廣告設定&lt;/a&gt;管理廣告偏好設定。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;聯盟連結：&lt;/strong&gt; 我們參與Booking.com聯盟行銷計畫。點擊聯盟連結可能會在你的裝置上設定Cookie，以追蹤推薦來源。&lt;/p&gt;
+&lt;h2 id=&#34;第三方服務&#34;&gt;第三方服務&lt;/h2&gt;
+&lt;p&gt;本站使用以下第三方服務，各服務皆有其自身的隱私權政策：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Analytics&lt;/strong&gt; — &lt;a href=&#34;https://policies.google.com/privacy&#34;&gt;隱私權政策&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google AdSense&lt;/strong&gt; — &lt;a href=&#34;https://policies.google.com/privacy&#34;&gt;隱私權政策&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Booking.com 聯盟計畫&lt;/strong&gt; — &lt;a href=&#34;https://www.booking.com/content/privacy.html&#34;&gt;隱私權政策&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;聯盟行銷揭露&#34;&gt;聯盟行銷揭露&lt;/h2&gt;
+&lt;p&gt;Hidden Japan Tokyo 參與包括Booking.com在內的聯盟行銷計畫。當你點擊聯盟連結並完成購買或預訂時，我們可能會獲得少許佣金，且不會增加你的任何額外費用。我們僅推薦我們認為對旅人真正有幫助的住宿與服務。&lt;/p&gt;
+&lt;h2 id=&#34;資料保存&#34;&gt;資料保存&lt;/h2&gt;
+&lt;p&gt;我們不會在自己的伺服器上儲存個人資料。分析資料依Google自身的政策保存。&lt;/p&gt;
+&lt;h2 id=&#34;你的權利&#34;&gt;你的權利&lt;/h2&gt;
+&lt;p&gt;依你所在地區，你可能擁有以下權利：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;存取我們所收集關於你的資訊&lt;/li&gt;
+&lt;li&gt;要求刪除你的資料&lt;/li&gt;
+&lt;li&gt;選擇退出分析與廣告追蹤&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;若欲行使上述權利，或有任何隱私相關疑問，請透過我們&lt;a href=&#34;http://localhost:1313/zh-tw/contact/&#34;&gt;聯絡我們頁面&lt;/a&gt;上的電子郵件與我們聯繫。&lt;/p&gt;
+&lt;h2 id=&#34;兒童隱私&#34;&gt;兒童隱私&lt;/h2&gt;
+&lt;p&gt;本站並非針對13歲以下兒童設計，我們不會刻意收集兒童的個人資訊。&lt;/p&gt;
+&lt;h2 id=&#34;政策異動&#34;&gt;政策異動&lt;/h2&gt;
+&lt;p&gt;我們可能不定期更新本政策。異動內容將連同更新日期一併公告於本頁面。&lt;/p&gt;
+&lt;h2 id=&#34;聯絡我們&#34;&gt;聯絡我們&lt;/h2&gt;
+&lt;p&gt;如有隱私相關疑問，請使用我們的&lt;a href=&#34;http://localhost:1313/zh-tw/contact/&#34;&gt;聯絡我們頁面&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>日本五個隱藏版溫泉小鎮，遠離人潮</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/</link>
+      <link>http://localhost:1313/zh-tw/posts/hidden-onsen-towns/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/hidden-onsen-towns/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/hidden-onsen-towns/</guid>
       <description>探索大多數外國遊客從未發現的日本隱藏版溫泉小鎮。</description>
     </item>
     <item>
       <title>日本最美地方鐵道之旅，遠離人潮</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/scenic-train-rides/</link>
+      <link>http://localhost:1313/zh-tw/posts/scenic-train-rides/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/scenic-train-rides/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/scenic-train-rides/</guid>
       <description>新幹線看不到的真實日本，藏在這5條風景絕美的地方鐵道線上。</description>
     </item>
     <item>
       <title>日本鄉間美食：5種值得離開城市才能體驗的日本當地美食</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/rural-food-japan/</link>
+      <link>http://localhost:1313/zh-tw/posts/rural-food-japan/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/rural-food-japan/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/rural-food-japan/</guid>
       <description>探索觀光路線以外的日本鄉間道地美食體驗。</description>
     </item>
     <item>
       <title>日本隱藏版寺廟：東北地區5座值得北上一探的秘境神社</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/hidden-temples-tohoku/</link>
+      <link>http://localhost:1313/zh-tw/posts/hidden-temples-tohoku/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/hidden-temples-tohoku/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/hidden-temples-tohoku/</guid>
       <description>避開京都的人潮，探索東北地區最具氛圍感、歷史最深厚的5座寺廟與神社。</description>
     </item>
     <item>
       <title>日本隱藏瀑布：5座大多數觀光客從未發現的瀑布</title>
-      <link>https://hidden-japan.tokyo/zh-tw/posts/hidden-waterfalls/</link>
+      <link>http://localhost:1313/zh-tw/posts/hidden-waterfalls/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/zh-tw/posts/hidden-waterfalls/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/hidden-waterfalls/</guid>
       <description>探索大多數觀光客從未發現的日本鄉間隱藏瀑布。</description>
     </item>
   </channel>

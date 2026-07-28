@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Festivals</title>
-      <link>https://hidden-japan.tokyo/tags/festivals/</link>
+      <link>http://localhost:1313/tags/festivals/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/festivals/</guid>
+      <guid>http://localhost:1313/tags/festivals/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>https://hidden-japan.tokyo/tags/food/</link>
+      <link>http://localhost:1313/tags/food/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/food/</guid>
+      <guid>http://localhost:1313/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>https://hidden-japan.tokyo/tags/nature/</link>
+      <link>http://localhost:1313/tags/nature/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/nature/</guid>
+      <guid>http://localhost:1313/tags/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Tohoku</title>
-      <link>https://hidden-japan.tokyo/tags/tohoku/</link>
+      <link>http://localhost:1313/tags/tohoku/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/tohoku/</guid>
+      <guid>http://localhost:1313/tags/tohoku/</guid>
       <description></description>
     </item>
     <item>
       <title>Onsen</title>
-      <link>https://hidden-japan.tokyo/tags/onsen/</link>
+      <link>http://localhost:1313/tags/onsen/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/onsen/</guid>
+      <guid>http://localhost:1313/tags/onsen/</guid>
       <description></description>
     </item>
     <item>
       <title>Accommodation</title>
-      <link>https://hidden-japan.tokyo/tags/accommodation/</link>
+      <link>http://localhost:1313/tags/accommodation/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/accommodation/</guid>
+      <guid>http://localhost:1313/tags/accommodation/</guid>
       <description></description>
     </item>
     <item>
       <title>Chubu</title>
-      <link>https://hidden-japan.tokyo/tags/chubu/</link>
+      <link>http://localhost:1313/tags/chubu/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/chubu/</guid>
+      <guid>http://localhost:1313/tags/chubu/</guid>
       <description></description>
     </item>
     <item>
       <title>Nationwide</title>
-      <link>https://hidden-japan.tokyo/tags/nationwide/</link>
+      <link>http://localhost:1313/tags/nationwide/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/nationwide/</guid>
+      <guid>http://localhost:1313/tags/nationwide/</guid>
       <description></description>
     </item>
     <item>
       <title>Castle-Towns</title>
-      <link>https://hidden-japan.tokyo/tags/castle-towns/</link>
+      <link>http://localhost:1313/tags/castle-towns/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/castle-towns/</guid>
+      <guid>http://localhost:1313/tags/castle-towns/</guid>
       <description></description>
     </item>
     <item>
       <title>Chugoku</title>
-      <link>https://hidden-japan.tokyo/tags/chugoku/</link>
+      <link>http://localhost:1313/tags/chugoku/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/chugoku/</guid>
+      <guid>http://localhost:1313/tags/chugoku/</guid>
       <description></description>
     </item>
     <item>
       <title>Coastal</title>
-      <link>https://hidden-japan.tokyo/tags/coastal/</link>
+      <link>http://localhost:1313/tags/coastal/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/coastal/</guid>
+      <guid>http://localhost:1313/tags/coastal/</guid>
       <description></description>
     </item>
     <item>
       <title>Kansai</title>
-      <link>https://hidden-japan.tokyo/tags/kansai/</link>
+      <link>http://localhost:1313/tags/kansai/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/kansai/</guid>
+      <guid>http://localhost:1313/tags/kansai/</guid>
       <description></description>
     </item>
     <item>
       <title>Kanto</title>
-      <link>https://hidden-japan.tokyo/tags/kanto/</link>
+      <link>http://localhost:1313/tags/kanto/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/kanto/</guid>
+      <guid>http://localhost:1313/tags/kanto/</guid>
       <description></description>
     </item>
     <item>
       <title>Lighthouses</title>
-      <link>https://hidden-japan.tokyo/tags/lighthouses/</link>
+      <link>http://localhost:1313/tags/lighthouses/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/lighthouses/</guid>
+      <guid>http://localhost:1313/tags/lighthouses/</guid>
       <description></description>
     </item>
     <item>
       <title>Hiking</title>
-      <link>https://hidden-japan.tokyo/tags/hiking/</link>
+      <link>http://localhost:1313/tags/hiking/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/hiking/</guid>
+      <guid>http://localhost:1313/tags/hiking/</guid>
       <description></description>
     </item>
     <item>
       <title>Temples-Shrines</title>
-      <link>https://hidden-japan.tokyo/tags/temples-shrines/</link>
+      <link>http://localhost:1313/tags/temples-shrines/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/temples-shrines/</guid>
+      <guid>http://localhost:1313/tags/temples-shrines/</guid>
       <description></description>
     </item>
     <item>
       <title>Waterfalls</title>
-      <link>https://hidden-japan.tokyo/tags/waterfalls/</link>
+      <link>http://localhost:1313/tags/waterfalls/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/waterfalls/</guid>
+      <guid>http://localhost:1313/tags/waterfalls/</guid>
       <description></description>
     </item>
     <item>
       <title>Kyushu</title>
-      <link>https://hidden-japan.tokyo/tags/kyushu/</link>
+      <link>http://localhost:1313/tags/kyushu/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/kyushu/</guid>
+      <guid>http://localhost:1313/tags/kyushu/</guid>
       <description></description>
     </item>
     <item>
       <title>Shikoku</title>
-      <link>https://hidden-japan.tokyo/tags/shikoku/</link>
+      <link>http://localhost:1313/tags/shikoku/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/shikoku/</guid>
+      <guid>http://localhost:1313/tags/shikoku/</guid>
       <description></description>
     </item>
     <item>
       <title>Trains</title>
-      <link>https://hidden-japan.tokyo/tags/trains/</link>
+      <link>http://localhost:1313/tags/trains/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/tags/trains/</guid>
+      <guid>http://localhost:1313/tags/trains/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Festivals on Hidden Japan Tokyo</title>
-    <link>https://hidden-japan.tokyo/ko/tags/festivals/</link>
+    <link>http://localhost:1313/ko/tags/festivals/</link>
     <description>Recent content in Festivals on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hidden-japan.tokyo/ko/tags/festivals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ko/tags/festivals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>신칸센 역을 넘어서: 모리오카</title>
-      <link>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/</link>
+      <link>http://localhost:1313/ko/posts/beyond-shinkansen-morioka/</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-morioka/</guid>
+      <guid>http://localhost:1313/ko/posts/beyond-shinkansen-morioka/</guid>
       <description>뉴욕타임스가 2023년 세계 최고 여행지로 선정했다. 그런데도 대부분의 여행자는 그냥 지나친다. 모리오카에서 놓치고 있는 것들.</description>
     </item>
     <item>
       <title>신칸센 역을 넘어서: 아오모리</title>
-      <link>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-aomori/</link>
+      <link>http://localhost:1313/ko/posts/beyond-shinkansen-aomori/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/beyond-shinkansen-aomori/</guid>
+      <guid>http://localhost:1313/ko/posts/beyond-shinkansen-aomori/</guid>
       <description>대부분의 여행자들은 신아오모리역을 그냥 지나친다. 하지만 여기서 내리면 무엇이 기다리고 있는지—그것이 바로 실수인 이유다.</description>
     </item>
     <item>
       <title>일본의 위대한 불꽃놀이 축제: 여행 일정을 짤 만한 4곳의 하나비 대회</title>
-      <link>https://hidden-japan.tokyo/ko/posts/japan-fireworks-festivals/</link>
+      <link>http://localhost:1313/ko/posts/japan-fireworks-festivals/</link>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://hidden-japan.tokyo/ko/posts/japan-fireworks-festivals/</guid>
+      <guid>http://localhost:1313/ko/posts/japan-fireworks-festivals/</guid>
       <description>규모, 예술성, 그리고 압도적인 체감으로 여름 저녁을 잊을 수 없는 경험으로 만드는 일본 최고의 불꽃놀이 축제 4곳을 소개합니다.</description>
     </item>
   </channel>
