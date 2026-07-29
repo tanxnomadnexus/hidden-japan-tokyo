@@ -94,3 +94,9 @@ cover:
 這種感覺，對雙方而言，都比任何知名景點更值得珍藏。
 
 *實用小提醒：IC卡（Suica、ICOCA）適用於大多數JR路線。搭乘第三部門鐵道請備妥現金。Google Maps在查詢日本地方列車時刻表方面出乎意料地好用——善用它來掌握轉乘時間。*
+
+---
+
+## 與當地導遊一起深入探索
+
+列車帶你抵達目的地。當地導遊告訴你抵達後眼前所見的意義。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)可為你媒合日本各地——包括這些鐵道沿線小鎮——會說英語的私人導遊。

@@ -90,3 +90,9 @@ cover:
 水溫是一樣的。磁磚更老舊了。沒有人為你表演任何事情。
 
 這正是重點。
+
+---
+
+## 與當地導遊一起深入探索
+
+找對錢湯、了解它所在的街坊、知道泡完澡後該去哪裡吃東西——當地導遊能讓一次入浴變成一個完整的夜晚。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo)可為你媒合東京及日本各地會說英語的私人導遊。
