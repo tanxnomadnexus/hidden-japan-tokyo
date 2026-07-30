@@ -158,4 +158,4 @@ Navigating Aomori's morning market, finding the right wanko soba restaurant, or 
 
 ## Where to Stay in Aomori
 
-Find hotels and guesthouses near Aomori Station on [Booking.com](https://www.booking.com/city/jp/aomori.html?aid=101811692) — business hotels in the ¥8,000–12,000/night range are clustered within easy walking distance of the station, the morning market, and the waterfront.
+Find hotels and guesthouses near Aomori Station on [Booking.com](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Faomori.html) — business hotels in the ¥8,000–12,000/night range are clustered within easy walking distance of the station, the morning market, and the waterfront.

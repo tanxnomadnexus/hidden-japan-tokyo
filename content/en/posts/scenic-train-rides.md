@@ -101,4 +101,4 @@ The train gets you there. A local guide tells you what you're looking at when yo
 
 ## Where to Stay Along the Route
 
-The best scenic train journeys reward travelers who stop overnight rather than rushing back. Find accommodation along these routes on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692).
+The best scenic train journeys reward travelers who stop overnight rather than rushing back. Find accommodation along these routes on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html).

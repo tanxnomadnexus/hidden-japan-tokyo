@@ -98,4 +98,4 @@ The samurai district in Sasayama, the cloud-castle ruins at Takeda, Bitchu-Matsu
 
 ## Where to Stay
 
-Maruoka and Bitchu-Matsuyama sit at the outer edge of comfortable day-trip range from Osaka — an overnight stay in Fukui or Okayama makes either much more relaxed. Find accommodation on [Booking.com](https://www.booking.com/city/jp/osaka.html?aid=101811692).
+Maruoka and Bitchu-Matsuyama sit at the outer edge of comfortable day-trip range from Osaka — an overnight stay in Fukui or Okayama makes either much more relaxed. Find accommodation on [Booking.com](https://www.anrdoezrs.net/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Fosaka.html).

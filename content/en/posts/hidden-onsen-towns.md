@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Hidden Onsen Towns in Japan Away from the Crowds (2026 Guide)"
 date: 2026-06-24
 tags: ["onsen", "tohoku", "chubu", "nature", "accommodation"]
@@ -95,4 +95,4 @@ Getting to places like Nyuto Onsen or Tsuta without a car takes some planning �
 
 ## Where to Stay Near These Onsen Towns
 
-Find ryokan and hotels near these hidden hot spring destinations on [Booking.com](https://www.booking.com/region/jp/tohoku.html?aid=101811692) — from traditional inns with private baths to simple guesthouses within walking distance of the springs.
+Find ryokan and hotels near these hidden hot spring destinations on [Booking.com](https://www.jdoqocy.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Ftohoku.html) — from traditional inns with private baths to simple guesthouses within walking distance of the springs.

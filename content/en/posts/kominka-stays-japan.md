@@ -67,4 +67,4 @@ Arriving at a remote farmhouse with no English signage and a host who speaks onl
 
 ## Find a Kominka Stay on Booking.com
 
-Search "traditional house" or "entire home" in your target region on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692) — the selection of kominka and traditional farmhouse rentals has grown significantly in recent years, with options across Tohoku, Nagano, the Izu Peninsula, and the Setouchi region.
+Search "traditional house" or "entire home" in your target region on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html) — the selection of kominka and traditional farmhouse rentals has grown significantly in recent years, with options across Tohoku, Nagano, the Izu Peninsula, and the Setouchi region.

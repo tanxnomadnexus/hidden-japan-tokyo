@@ -113,4 +113,4 @@ Getting to the more remote lighthouses on this list — Shionomisaki, Kyogamisak
 
 ## Where to Stay
 
-Most of Honshu's best lighthouses are worth an overnight stop in the surrounding area. Find coastal accommodation near these headlands on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692).
+Most of Honshu's best lighthouses are worth an overnight stop in the surrounding area. Find coastal accommodation near these headlands on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html).

@@ -75,4 +75,4 @@ Some of Japan's best waterfalls require local knowledge to find — unmarked pat
 
 ## Where to Stay
 
-Find accommodation near Japan's hidden waterfalls on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692) — search by the nearest town or region for the best options close to each waterfall.
+Find accommodation near Japan's hidden waterfalls on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html) — search by the nearest town or region for the best options close to each waterfall.

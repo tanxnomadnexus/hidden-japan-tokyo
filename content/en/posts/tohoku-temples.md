@@ -75,4 +75,4 @@ Getting to Dewa Sanzan or Yamadera with full context — the history, the ritual
 
 ## Where to Stay in Tohoku
 
-Find hotels and ryokan near Tohoku's hidden temples on [Booking.com](https://www.booking.com/region/jp/tohoku.html?aid=101811692) — staying overnight near Yamadera or Hiraizumi gives you the sites before and after the day-tripper crowds arrive.
+Find hotels and ryokan near Tohoku's hidden temples on [Booking.com](https://www.jdoqocy.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Ftohoku.html) — staying overnight near Yamadera or Hiraizumi gives you the sites before and after the day-tripper crowds arrive.

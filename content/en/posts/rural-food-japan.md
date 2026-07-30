@@ -75,4 +75,4 @@ Navigating rural Japan's food culture — finding the right market, ordering fro
 
 ## Where to Stay
 
-The best rural food experiences in Japan happen when you stay overnight rather than day-tripping. Find guesthouses and small hotels in Japan's farming and fishing regions on [Booking.com](https://www.booking.com/country/jp.html?aid=101811692).
+The best rural food experiences in Japan happen when you stay overnight rather than day-tripping. Find guesthouses and small hotels in Japan's farming and fishing regions on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html).

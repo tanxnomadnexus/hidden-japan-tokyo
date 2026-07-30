@@ -154,4 +154,4 @@ From the wanko soba protocol to the ironware workshops to the lesser-known corne
 
 ## Where to Stay in Morioka
 
-Find hotels near Morioka Station on [Booking.com](https://www.booking.com/city/jp/morioka.html?aid=101811692) — the downtown area has a good range of business hotels and a few smaller guesthouses, all within walking distance of the noodle shops and the castle ruins.
+Find hotels near Morioka Station on [Booking.com](https://www.anrdoezrs.net/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Fmorioka.html) — the downtown area has a good range of business hotels and a few smaller guesthouses, all within walking distance of the noodle shops and the castle ruins.
