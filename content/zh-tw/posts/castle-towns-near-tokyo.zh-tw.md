@@ -98,6 +98,6 @@ cover:
 ---
 
 ## 住宿資訊
-若計劃探索東京近郊的城下町，可以在[Booking.com上查看關東地區住宿](https://www.jdoqocy.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Fkanto.html)。
+若計劃探索東京近郊的城下町，可以在[Booking.com上查看關東地區住宿](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Fkanto.html)。
 
 ---

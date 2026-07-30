@@ -102,6 +102,6 @@ cover:
 ---
 
 ## 住宿資訊
-若計劃探索東北地區，建議事先在[Booking.com上查看東北地區住宿](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Ftohoku.html)。
+若計劃探索東北地區，建議事先在[Booking.com上查看東北地區住宿](https://www.jdoqocy.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Ftohoku.html)。
 
 ---

@@ -151,11 +151,11 @@ cover:
 ---
 
 ## 숙소 안내
-盛岡（모리오카）를 거점 삼아 하룻밤 머물고 싶다면, [Booking.com에서 모리오카 숙소](https://www.dpbolvw.net/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fmorioka.html)를 찾아보세요.
+盛岡（모리오카）를 거점 삼아 하룻밤 머물고 싶다면, [Booking.com에서 모리오카 숙소](https://www.anrdoezrs.net/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Fmorioka.html)를 찾아보세요.
 
 ---
 
 ## 住宿資訊
-若想以盛岡為據點過夜，可以到[Booking.com查看盛岡住宿](https://www.dpbolvw.net/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fmorioka.html)。
+若想以盛岡為據點過夜，可以到[Booking.com查看盛岡住宿](https://www.anrdoezrs.net/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Fmorioka.html)。
 
 --

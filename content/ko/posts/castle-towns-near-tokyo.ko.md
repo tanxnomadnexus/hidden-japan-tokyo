@@ -98,6 +98,6 @@ cover:
 ---
 
 ## 숙소 안내
-도쿄 근교 성곽 마을을 여행할 계획이라면, [Booking.com에서 간토 지역 숙소](https://www.jdoqocy.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Fkanto.html)를 찾아보세요.
+도쿄 근교 성곽 마을을 여행할 계획이라면, [Booking.com에서 간토 지역 숙소](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Fkanto.html)를 찾아보세요.
 
 ---

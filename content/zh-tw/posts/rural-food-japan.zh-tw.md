@@ -71,6 +71,6 @@ cover:
 ---
 
 ## 住宿資訊
-若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html)。
 
 ---

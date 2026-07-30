@@ -102,6 +102,6 @@ cover:
 ---
 
 ## 숙소 안내
-東北（도호쿠）지역을 둘러보는 여정이라면, [Booking.com에서 도호쿠 지역 숙소](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Ftohoku.html)를 미리 확인해보세요.
+東北（도호쿠）지역을 둘러보는 여정이라면, [Booking.com에서 도호쿠 지역 숙소](https://www.jdoqocy.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Ftohoku.html)를 미리 확인해보세요.
 
 ---

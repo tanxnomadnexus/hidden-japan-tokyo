@@ -101,6 +101,6 @@ cover:
 
 ---
 ## 숙소 안내
-여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
 
 ---

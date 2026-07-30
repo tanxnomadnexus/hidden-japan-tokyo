@@ -98,6 +98,6 @@ cover:
 ---
 
 ## 住宿資訊
-若計畫探索大阪周邊的城下町，不妨以[Booking.com上的大阪住宿](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fosaka.html)作為據點。
+若計畫探索大阪周邊的城下町，不妨以[Booking.com上的大阪住宿](https://www.anrdoezrs.net/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Fosaka.html)作為據點。
 
 ---
