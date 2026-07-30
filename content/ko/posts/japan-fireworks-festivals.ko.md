@@ -109,7 +109,10 @@ cover:
 ## 현지 가이드와 함께 축제 경험하기
 
 군중 속 길 찾기, 최고의 무료 관람 장소 발견하기, 어떤 야타이가 줄 설 가치가 있는지 알기—현지 가이드는 첫 번째 불꽃이 오르기 전부터 충분한 가치를 합니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fniigata)는 일본 전역의 영어 가능 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
 
+## 숙소 안내
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
+
+---

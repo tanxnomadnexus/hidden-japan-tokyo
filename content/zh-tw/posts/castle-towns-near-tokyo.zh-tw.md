@@ -94,3 +94,10 @@ cover:
 ## 與私人導遊一起探索城下町
 
 川越的後街巷弄、會津若松的武士歷史、上田的真田家族故事——有了解背景脈絡的人陪伴，這一切都會更加深刻。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo)可為你媒合關東與東北地區會說英語的私人導遊。
+
+---
+
+## 住宿資訊
+若計劃探索東京近郊的城下町，可以在[Booking.com上查看關東地區住宿](https://www.jdoqocy.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Fkanto.html)。
+
+---

@@ -62,3 +62,10 @@ cover:
 ## 與當地導遊一起探索日本隱藏版瀑布
 
 日本最美的瀑布中，有些若沒有在地知識根本找不到——沒有標示的小徑、季節性封閉，以及不會出現在一般地圖上的入口。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)可為你媒合熟悉地形的日本各地私人導遊。
+
+---
+
+## 住宿資訊
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+
+---

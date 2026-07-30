@@ -108,3 +108,10 @@ cover:
 ## 與當地導遊一起探索日本海岸
 
 前往這份清單上較偏遠的燈塔——潮岬、經ヶ岬、入道崎——往往意味著要搭乘班次稀少的巴士、行走鄉間小路。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)可為你媒合熟悉這些海岸地區的私人導遊。
+
+---
+
+## 住宿資訊
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+
+---

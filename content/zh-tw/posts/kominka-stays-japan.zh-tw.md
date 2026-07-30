@@ -62,3 +62,10 @@ cover:
 ## 讓你的古民家住宿更加充實
 
 抵達一棟沒有英文標示、房東只說日文的偏遠農舍，本身就是體驗的一部分——但有一位熟悉周邊地區的當地導遊，會讓所有事情順暢許多。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)可為你媒合日本各地的私人導遊。
+
+---
+
+## 住宿資訊
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+
+---

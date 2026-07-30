@@ -155,3 +155,8 @@ cover:
 ## 在青森預約私人導遊
 
 逛青森早市、找對わんこ蕎麥麵的店、不迷路地抵達酸湯溫泉——有當地導遊，這一切都輕鬆許多。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Faomori)可為你媒合青森當地會說英語的私人導遊，依照你真正想做的事客製化行程。
+
+## 住宿資訊
+如果想在青森過夜，可以到[Booking.com查看青森當地住宿](https://www.dpbolvw.net/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Faomori.html)。
+
+---

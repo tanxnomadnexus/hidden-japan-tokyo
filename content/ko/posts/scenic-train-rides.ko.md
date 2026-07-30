@@ -98,7 +98,9 @@ cover:
 ## 현지 가이드와 함께 더 깊이 탐험하기
 
 열차는 목적지까지 데려다줍니다. 현지 가이드는 도착했을 때 무엇을 보고 있는지 알려줍니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)는 일본 전역—이 노선들을 따라 있는 작은 마을들 포함—의 영어 가능 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
+## 숙소 안내
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
 
+---

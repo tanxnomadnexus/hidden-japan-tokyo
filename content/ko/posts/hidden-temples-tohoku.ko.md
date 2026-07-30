@@ -84,8 +84,10 @@ cover:
 ## 현지 가이드와 함께 도호쿠의 숨겨진 사원 방문하기
 
 데와 산잔이나 야마데라를 완전한 맥락과 함께—역사, 종교적 의미, 안내판에 없는 이야기—방문하려면 이 지역을 잘 아는 사람이 필요합니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fiwate)는 도호쿠의 영어 가능 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
 
+## 숙소 안내
+東北（도호쿠）지역을 둘러보는 여정이라면, [Booking.com에서 도호쿠 지역 숙소](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Ftohoku.html)를 미리 확인해보세요.
 
+---

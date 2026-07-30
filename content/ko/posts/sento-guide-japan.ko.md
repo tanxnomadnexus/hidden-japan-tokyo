@@ -95,7 +95,10 @@ cover:
 ## 현지 가이드와 함께 더 깊이 탐험하기
 
 올바른 센토 찾기, 그 센토가 자리한 동네 이해하기, 목욕 후 무엇을 먹을지 알기—현지 가이드는 목욕 한 번을 하나의 저녁으로 만들어줍니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo)는 도쿄와 일본 전역의 영어 가능 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
 
+## 숙소 안내
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
+
+---

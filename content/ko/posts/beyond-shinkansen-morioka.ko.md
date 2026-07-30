@@ -147,3 +147,15 @@ cover:
 ## 모리오카에서 프라이빗 가이드 예약하기
 
 완코소바 예절부터 철기 공방, 이와테 공원의 덜 알려진 구석까지—모리오카의 현지 가이드가 있으면 좋은 여행이 훌륭한 여행이 된다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fmorioka)에서 모리오카와 이와테현 일대의 영어 가능 프라이빗 가이드를 연결해드립니다.
+
+---
+
+## 숙소 안내
+盛岡（모리오카）를 거점 삼아 하룻밤 머물고 싶다면, [Booking.com에서 모리오카 숙소](https://www.dpbolvw.net/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fmorioka.html)를 찾아보세요.
+
+---
+
+## 住宿資訊
+若想以盛岡為據點過夜，可以到[Booking.com查看盛岡住宿](https://www.dpbolvw.net/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fmorioka.html)。
+
+--

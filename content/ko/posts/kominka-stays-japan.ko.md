@@ -61,7 +61,10 @@ Booking.com에서 관심 있는 지역과 함께 '고민카' 또는 '전통 일�
 ## 고민카 스테이를 최대한 활용하기
 
 영어 안내판도 없고 일본어만 하는 주인이 있는 외딴 농가에 도착하는 것도 경험의 일부입니다—하지만 주변 지역을 위한 현지 가이드가 있으면 모든 것이 훨씬 수월해집니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)는 일본 전역의 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
 
+## 숙소 안내
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
+
+---

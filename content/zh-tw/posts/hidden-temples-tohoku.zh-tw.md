@@ -84,3 +84,10 @@ cover:
 ## 與當地導遊一起造訪東北隱藏版寺廟
 
 帶著完整背景造訪出羽三山或山寺——歷史脈絡、宗教意涵、告示牌上沒寫的事——需要一位真正了解這個地區的人陪伴。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fiwate)可為你媒合東北地區會說英語的私人導遊。
+
+---
+
+## 住宿資訊
+若計劃探索東北地區，建議事先在[Booking.com上查看東北地區住宿](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Ftohoku.html)。
+
+---

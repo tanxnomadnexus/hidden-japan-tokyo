@@ -97,6 +97,11 @@ cover:
 ## 온천 여행을 위한 프라이빗 가이드 찾기
 
 뉴토 온천이나 츠타 온천 같은 곳에 차 없이 가려면 상당한 준비가 필요합니다—버스 시간표와 계절별 접근 조건을 잘 아는 현지 가이드가 있으면 여행이 훨씬 순조로워집니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fakita)는 도호쿠 전역의 영어 가능 프라이빗 가이드와 연결해드립니다.
-```
+
+
+---
+
+## 숙소 안내
+東北（도호쿠）지역을 둘러보는 여정이라면, [Booking.com에서 도호쿠 지역 숙소](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Ftohoku.html)를 미리 확인해보세요.
 
 ---

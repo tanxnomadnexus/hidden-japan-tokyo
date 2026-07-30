@@ -67,3 +67,10 @@ cover:
 ## 與私人美食導遊一起像當地人一樣吃
 
 探索日本鄉間的飲食文化——找對市場、點沒有圖片的菜單、搞清楚什麼是當令食材——正是當地導遊最能發揮價值的時刻。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)可為你媒合日本各地會說英語的私人導遊。
+
+---
+
+## 住宿資訊
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+
+---

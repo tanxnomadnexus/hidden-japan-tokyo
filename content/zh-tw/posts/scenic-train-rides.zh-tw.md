@@ -100,3 +100,10 @@ cover:
 ## 與當地導遊一起深入探索
 
 列車帶你抵達目的地。當地導遊告訴你抵達後眼前所見的意義。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)可為你媒合日本各地——包括這些鐵道沿線小鎮——會說英語的私人導遊。
+
+---
+
+## 住宿資訊
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+
+---

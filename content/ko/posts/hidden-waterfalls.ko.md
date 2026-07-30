@@ -60,6 +60,9 @@ cover:
 ## 현지 가이드와 함께 일본의 숨겨진 폭포 탐험하기
 
 일본의 최고 폭포들 중 일부는 현지 지식 없이는 찾기 어렵습니다—표시 없는 등산로, 계절별 폐쇄, 일반 지도에 나오지 않는 접근로가 있기 때문입니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)는 지형을 잘 아는 일본 전역의 프라이빗 가이드와 연결해드립니다.
-```
+
+---
+## 숙소 안내
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
 
 ---

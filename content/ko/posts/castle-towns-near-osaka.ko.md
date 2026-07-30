@@ -98,3 +98,7 @@ cover:
 
 ---
 
+## 숙소 안내
+오사카 근교 성곽 마을을 둘러보는 여정이라면, [Booking.com에서 오사카 숙소](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fosaka.html)를 거점으로 삼아보세요.
+
+---

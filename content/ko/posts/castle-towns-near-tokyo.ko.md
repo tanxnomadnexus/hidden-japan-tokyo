@@ -94,7 +94,10 @@ cover:
 ## 프라이빗 가이드와 함께 성곽 마을 탐험하기
 
 가와고에의 뒷골목, 아이즈와카마쓰의 사무라이 역사, 우에다의 사나다 가문 이야기—모두 맥락을 아는 사람과 함께하면 더 깊어집니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Ftokyo)는 간토와 도호쿠 지역의 영어 가능 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
 
+## 숙소 안내
+도쿄 근교 성곽 마을을 여행할 계획이라면, [Booking.com에서 간토 지역 숙소](https://www.jdoqocy.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fregion%2Fjp%2Fkanto.html)를 찾아보세요.
+
+---

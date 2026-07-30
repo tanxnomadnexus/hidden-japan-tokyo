@@ -94,3 +94,10 @@ cover:
 ## 與私人導遊一起探索城下町
 
 篠山的武士街區、竹田的雲中城遺跡、備中松山的山間步道——有熟悉在地歷史的導遊陪伴，一切都更值回票價。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fosaka)可為你媒合關西與西日本地區會說英語的私人導遊。
+
+---
+
+## 住宿資訊
+若計畫探索大阪周邊的城下町，不妨以[Booking.com上的大阪住宿](https://www.kqzyfj.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fosaka.html)作為據點。
+
+---

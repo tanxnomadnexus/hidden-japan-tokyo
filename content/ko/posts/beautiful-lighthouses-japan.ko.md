@@ -108,7 +108,10 @@ cover:
 ## 현지 가이드와 함께 일본 해안 탐험하기
 
 이 목록의 외딴 등대들—시오노미사키, 교가미사키, 뉴도자키—에 가려면 종종 드문드문 오는 버스와 시골 도로를 헤쳐나가야 합니다. [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan)는 이 해안 지역을 잘 아는 프라이빗 가이드와 연결해드립니다.
-```
 
 ---
 
+## 숙소 안내
+여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
+
+---

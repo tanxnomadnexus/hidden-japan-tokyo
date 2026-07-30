@@ -110,3 +110,10 @@ cover:
 ## 與當地導遊一起體驗祭典
 
 在人群中找路、發現最佳的免費觀賞位置、知道哪個屋台值得排隊——當地導遊在第一發煙火升空之前就已經物超所值了。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fniigata)可為你媒合日本各地會說英語的私人導遊。
+
+---
+
+## 住宿資訊
+若在旅途中需要落腳處，可以在[Booking.com查看日本各地住宿](https://www.tkqlhce.com/click-101811692-17293136?url=https%3A%2F%2Fwww.booking.com%2Fcountry%2Fjp.html)。
+
+---
