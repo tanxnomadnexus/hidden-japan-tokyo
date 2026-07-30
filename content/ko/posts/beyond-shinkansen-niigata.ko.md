@@ -56,7 +56,7 @@ cover:
 
 ## 숙소 안내
 
-니가타시는 역에서 도보 거리 안이면 어디든 무난할 만큼 작고, 사도섬행 제트포일 터미널과도 가장 가깝다. [Booking.com에서 니가타역 인근 호텔과 게스트하우스](https://www.jdoqocy.com/click-101811692-17293139?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fniigata.html)를 찾아보세요 — 1박 7000~1만엔대의 중저가 비즈니스호텔들이 역 서쪽 출구에서 도보권에 몰려 있습니다.
+니가타시는 역에서 도보 거리 안이면 어디든 무난할 만큼 작고, 사도섬행 제트포일 터미널과도 가장 가깝다. [Booking.com에서 니가타역 인근 호텔과 게스트하우스](https://www.tkqlhce.com/click-101811692-15734754?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fniigata.html)를 찾아보세요 — 1박 7000~1만엔대의 중저가 비즈니스호텔들이 역 서쪽 출구에서 도보권에 몰려 있습니다.
 
 ## 프라이빗 가이드 예약하기
 

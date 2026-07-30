@@ -56,7 +56,7 @@ Rough total for two nights excluding shinkansen fares and accommodation: **¥25,
 
 ## Where to Stay
 
-Niigata City is compact enough that staying anywhere within walking distance of the station works fine, and it also puts you closest to the jetfoil terminal for the Sado crossing. Find hotels and guesthouses near Niigata Station on [Booking.com](https://www.jdoqocy.com/click-101811692-17293139?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fniigata.html) — mid-range business hotels in the ¥7,000-10,000/night range are clustered a short walk from the station's west exit.
+Niigata City is compact enough that staying anywhere within walking distance of the station works fine, and it also puts you closest to the jetfoil terminal for the Sado crossing. Find hotels and guesthouses near Niigata Station on [Booking.com](https://www.tkqlhce.com/click-101811692-15734754?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fniigata.html) — mid-range business hotels in the ¥7,000-10,000/night range are clustered a short walk from the station's west exit.
 
 ## Book a Private Guide
 

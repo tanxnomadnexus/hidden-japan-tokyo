@@ -56,7 +56,7 @@ Ponshukan是車站內的一個試飲設施，投入1000日圓硬幣，就能拿�
 
 ## 住宿資訊
 
-新潟市範圍緊湊，住在車站步行可達的範圍內都很方便，同時也最靠近前往佐渡的水翼船碼頭。可以到[Booking.com查看新潟車站附近的住宿](https://www.jdoqocy.com/click-101811692-17293139?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fniigata.html)——每晚7000～1萬日圓左右的中價位商務飯店，大多聚集在車站西口步行範圍內。
+新潟市範圍緊湊，住在車站步行可達的範圍內都很方便，同時也最靠近前往佐渡的水翼船碼頭。可以到[Booking.com查看新潟車站附近的住宿](https://www.tkqlhce.com/click-101811692-15734754?url=https%3A%2F%2Fwww.booking.com%2Fcity%2Fjp%2Fniigata.html)——每晚7000～1萬日圓左右的中價位商務飯店，大多聚集在車站西口步行範圍內。
 
 ## 預約私人導遊
 
