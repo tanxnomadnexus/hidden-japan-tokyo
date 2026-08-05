@@ -9,7 +9,7 @@ cover:
   alt: "Morioka city riverside with Mt. Iwate in the background"
 ---
 
-In 2023, the New York Times listed Morioka as one of the 52 places to visit in the world. Not in Japan — in the world. For a few months, the city's name circulated in travel conversations internationally, and a modest wave of visitors followed.
+In 2023, [the New York Times listed Morioka](https://www.nytimes.com/interactive/2023/travel/52-places-travel-2023.html) as one of the 52 places to visit in the world. Not in Japan — in the world. For a few months, the city's name circulated in travel conversations internationally, and a modest wave of visitors followed.
 
 Then the wave subsided, and Morioka went back to being what it had been before: a city that most foreign tourists pass through on the Tohoku Shinkansen without stopping, on their way to somewhere else.
 
