@@ -91,3 +91,7 @@ cover:
 東北（도호쿠）지역을 둘러보는 여정이라면, [Booking.com에서 도호쿠 지역 숙소](https://www.jdoqocy.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Ftohoku.html)를 미리 확인해보세요.
 
 ---
+
+---
+
+*이 글은 Hidden Japan Tokyo를 운영하는 사람이 실제 방문을 바탕으로 작성했습니다 -- 간접 조사가 아닙니다. [이 사이트가 어떻게 운영되는지 더 알아보기 ->](/ko/about/)*

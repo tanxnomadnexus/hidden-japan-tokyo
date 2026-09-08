@@ -160,3 +160,7 @@ cover:
 如果想在青森過夜，可以到[Booking.com查看青森當地住宿](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Faomori.html)。
 
 ---
+
+---
+
+*本文由Hidden Japan Tokyo的作者根據實際造訪撰寫--並非間接查詢的資料。[進一步了解本站的運作方式 ->](/zh-tw/about/)*

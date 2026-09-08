@@ -124,3 +124,7 @@ Navigating the crowds, finding the best free viewing spots, knowing which yatai 
 ## Book Accommodation Early
 
 For Omagari and Nagaoka in particular, accommodation books out months in advance. Search your festival dates now on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html) — filtering by the nearest city will show you what's still available and how far in advance you need to plan.
+
+---
+
+*This guide was written by the person behind Hidden Japan Tokyo, based on an actual visit -- not secondhand research. [Read more about how this site works ->](/about/)*

@@ -115,3 +115,7 @@ cover:
 여정 중 머물 곳이 필요하다면, [Booking.com에서 일본 전역 숙소](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html)를 찾아보세요.
 
 ---
+
+---
+
+*이 글은 Hidden Japan Tokyo를 운영하는 사람이 실제 방문을 바탕으로 작성했습니다 -- 간접 조사가 아닙니다. [이 사이트가 어떻게 운영되는지 더 알아보기 ->](/ko/about/)*

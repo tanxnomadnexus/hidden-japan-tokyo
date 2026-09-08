@@ -162,3 +162,7 @@ cover:
 아오모리에서 하룻밤 묵을 곳을 찾고 있다면, [Booking.com에서 아오모리 지역 숙소](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Faomori.html)를 확인해보세요.
 
 ---
+
+---
+
+*이 글은 Hidden Japan Tokyo를 운영하는 사람이 실제 방문을 바탕으로 작성했습니다 -- 간접 조사가 아닙니다. [이 사이트가 어떻게 운영되는지 더 알아보기 ->](/ko/about/)*

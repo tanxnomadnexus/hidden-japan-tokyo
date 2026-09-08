@@ -6,8 +6,24 @@
     <description>Recent content on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/ko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>소개</title>
+      <link>http://localhost:1313/ko/about/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/about/</guid>
+      <description>&lt;h2 id=&#34;이-사이트가-존재하는-이유&#34;&gt;이 사이트가 존재하는 이유&lt;/h2&gt;
+&lt;p&gt;대부분의 영어권 일본 가이드는 늘 같은 열두어 개 도시를 같은 순서로 다룬다: 도쿄, 교토, 오사카, 시간이 남으면 히로시마 정도. 완전히 틀린 접근은 아니다 — 그 도시들은 방문할 가치가 있으니까 — 하지만 그렇게 하면 나라의 대부분이 빠지게 된다. 일본의 작은 도시와 지방을 [X년] 정도 여행하다 보니, 이런 곳들을 아예 무시하거나 관광청 보도자료를 그대로 베낀 한 문단으로 축소해버리는 가이드들에 지쳐버렸다.&lt;/p&gt;
+&lt;p&gt;이 사이트는 내가 존재하길 바랐던 바로 그런 가이드다: 구체적이고, 정직하며, 실제로 그 장소에 가본 사람이 쓴 글.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>신칸센 정차역 너머: 니가타</title>
+      <link>http://localhost:1313/ko/posts/beyond-shinkansen-niigata/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/posts/beyond-shinkansen-niigata/</guid>
+      <description>대부분의 사람들은 조에쓰 신칸센을 타고 니가타를 지나가면서 스키 시즌만 떠올린다. 논밭과 사케 시음대, 그리고 아무도 언급하지 않는 섬에서 내려야 하는 이유를 소개한다.</description>
+    </item>
     <item>
       <title>신칸센 역을 넘어서: 모리오카</title>
       <link>http://localhost:1313/ko/posts/beyond-shinkansen-morioka/</link>

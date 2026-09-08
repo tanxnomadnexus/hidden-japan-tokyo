@@ -99,3 +99,7 @@ Kawagoe's back alleys, Aizu-Wakamatsu's samurai history, Ueda's Sanada clan stor
 ## Where to Stay
 
 All five of these castle towns work as day trips from Tokyo — but staying overnight gives you the town after the day visitors leave, which is a different experience entirely. Find accommodation on [Booking.com](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Fkanto.html).
+
+---
+
+*This guide was written by the person behind Hidden Japan Tokyo, based on an actual visit -- not secondhand research. [Read more about how this site works ->](/about/)*

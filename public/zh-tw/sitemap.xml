@@ -2,44 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh-tw/tags/festivals/</loc>
-    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/festivals/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/tags/festivals/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://localhost:1313/zh-tw/tags/festivals/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-tw/tags/food/</loc>
-    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/tags/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://localhost:1313/zh-tw/tags/food/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh-tw/</loc>
-    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,8 +20,80 @@
                 href="http://localhost:1313/zh-tw/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh-tw/about/</loc>
+    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-tw/tags/chubu/</loc>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/chubu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/chubu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/tags/chubu/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-tw/tags/coastal/</loc>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/coastal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/coastal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/tags/coastal/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-tw/tags/food/</loc>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/tags/food/"
+                />
+  </url><url>
     <loc>http://localhost:1313/zh-tw/tags/nature/</loc>
-    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,7 +111,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/zh-tw/posts/</loc>
-    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -93,7 +129,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/zh-tw/tags/</loc>
-    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,6 +144,42 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://localhost:1313/zh-tw/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-tw/posts/beyond-shinkansen-niigata/</loc>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/beyond-shinkansen-niigata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/posts/beyond-shinkansen-niigata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/posts/beyond-shinkansen-niigata/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-tw/tags/festivals/</loc>
+    <lastmod>2026-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/festivals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/festivals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://localhost:1313/zh-tw/tags/festivals/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-tw/tags/tohoku/</loc>
@@ -198,24 +270,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://localhost:1313/zh-tw/tags/accommodation/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-tw/tags/chubu/</loc>
-    <lastmod>2026-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/chubu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/tags/chubu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://localhost:1313/zh-tw/tags/chubu/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-tw/tags/nationwide/</loc>
@@ -324,24 +378,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="http://localhost:1313/zh-tw/tags/chugoku/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh-tw/tags/coastal/</loc>
-    <lastmod>2026-06-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/coastal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/tags/coastal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://localhost:1313/zh-tw/tags/coastal/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh-tw/tags/kansai/</loc>

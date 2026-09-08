@@ -101,3 +101,7 @@ cover:
 若計畫探索大阪周邊的城下町，不妨以[Booking.com上的大阪住宿](https://www.anrdoezrs.net/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcity%2Fjp%2Fosaka.html)作為據點。
 
 ---
+
+---
+
+*本文由Hidden Japan Tokyo的作者根據實際造訪撰寫--並非間接查詢的資料。[進一步了解本站的運作方式 ->](/zh-tw/about/)*

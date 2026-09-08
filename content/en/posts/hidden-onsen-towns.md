@@ -96,3 +96,7 @@ Getting to places like Nyuto Onsen or Tsuta without a car takes some planning â€
 ## Where to Stay Near These Onsen Towns
 
 Find ryokan and hotels near these hidden hot spring destinations on [Booking.com](https://www.jdoqocy.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Ftohoku.html) â€” from traditional inns with private baths to simple guesthouses within walking distance of the springs.
+
+---
+
+*This guide was written by the person behind Hidden Japan Tokyo, based on an actual visit -- not secondhand research. [Read more about how this site works ->](/about/)*

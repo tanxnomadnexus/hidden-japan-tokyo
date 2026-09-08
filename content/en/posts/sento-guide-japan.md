@@ -100,3 +100,7 @@ Finding the right sento, understanding the neighborhood it sits in, knowing what
 ## Where to Stay
 
 The best way to experience a neighborhood sento is to stay in the neighborhood. Find locally-run guesthouses and small hotels across Japan on [Booking.com](https://www.tkqlhce.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fcountry%2Fjp.html) — look for properties in residential areas rather than tourist districts.
+
+---
+
+*This guide was written by the person behind Hidden Japan Tokyo, based on an actual visit -- not secondhand research. [Read more about how this site works ->](/about/)*

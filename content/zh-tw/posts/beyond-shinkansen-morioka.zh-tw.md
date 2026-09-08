@@ -147,3 +147,7 @@ cover:
 ## 在盛岡預約私人導遊
 
 從碗子蕎麥麵的規矩到鐵器工坊，再到岩手公園較不為人知的角落——有一位盛岡的在地導遊，能讓好的旅行變成難忘的旅行。[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fmorioka)為您連結盛岡及岩手縣周邊的英語私人導遊。
+
+---
+
+*本文由Hidden Japan Tokyo的作者根據實際造訪撰寫--並非間接查詢的資料。[進一步了解本站的運作方式 ->](/zh-tw/about/)*

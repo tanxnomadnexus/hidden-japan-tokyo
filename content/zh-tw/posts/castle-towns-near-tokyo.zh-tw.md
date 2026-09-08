@@ -101,3 +101,7 @@ cover:
 若計劃探索東京近郊的城下町，可以在[Booking.com上查看關東地區住宿](https://www.kqzyfj.com/click-101811692-17293139?url=http%3A%2F%2Fwww.Booking.com%2Fregion%2Fjp%2Fkanto.html)。
 
 ---
+
+---
+
+*本文由Hidden Japan Tokyo的作者根據實際造訪撰寫--並非間接查詢的資料。[進一步了解本站的運作方式 ->](/zh-tw/about/)*

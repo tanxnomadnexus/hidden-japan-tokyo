@@ -6,8 +6,16 @@
     <description>Recent content on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;why-this-site-exists&#34;&gt;Why This Site Exists&lt;/h2&gt;
+&lt;p&gt;Most English-language guides to Japan cover the same dozen cities in the same order: Tokyo, Kyoto, Osaka, maybe Hiroshima if there&amp;rsquo;s time. That&amp;rsquo;s not wrong, exactly — those places are worth visiting — but it leaves out most of the country. Somewhere around [X years] of traveling through Japan&amp;rsquo;s smaller cities and rural regions, I got tired of guides that either ignored these places entirely or reduced them to a single paragraph copied from a tourism board press release.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Beyond the Shinkansen Stop: Niigata</title>
       <link>http://localhost:1313/posts/beyond-shinkansen-niigata/</link>

@@ -61,3 +61,7 @@ Niigata City is compact enough that staying anywhere within walking distance of 
 ## Book a Private Guide
 
 Sado Island in particular rewards having someone who actually knows the ferry timetables, the tide-dependent tub boat schedule, and which gold mine tour route is worth the extra time. A local guide through [GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fniigata) can connect you with English-speaking guides across Niigata and Sado who can turn a confusing ferry schedule into an actual plan.
+
+---
+
+*This guide was written by the person behind Hidden Japan Tokyo, based on an actual visit -- not secondhand research. [Read more about how this site works ->](/about/)*

@@ -61,3 +61,7 @@ Ponshukan是車站內的一個試飲設施，投入1000日圓硬幣，就能拿�
 ## 預約私人導遊
 
 佐渡島特別需要一位真正熟悉渡輪時刻表、隨潮汐變動的たらい舟航班，以及知道哪條金山導覽路線最值得花時間的導遊。透過[GoWithGuide](https://www.awin1.com/cread.php?awinmid=87121&awinaffid=2970625&ued=https%3A%2F%2Fgowithguide.com%2Fjapan%2Fniigata)，可以為你媒合新潟與佐渡地區會說英語的私人導遊，把原本令人困惑的渡輪時刻表，變成一份真正可行的行程規劃。
+
+---
+
+*本文由Hidden Japan Tokyo的作者根據實際造訪撰寫--並非間接查詢的資料。[進一步了解本站的運作方式 ->](/zh-tw/about/)*

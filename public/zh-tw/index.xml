@@ -6,8 +6,40 @@
     <description>Recent content on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於我們</title>
+      <link>http://localhost:1313/zh-tw/about/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/about/</guid>
+      <description>&lt;h2 id=&#34;這個網站存在的原因&#34;&gt;這個網站存在的原因&lt;/h2&gt;
+&lt;p&gt;大多數英語版的日本旅遊指南，總是用同樣的順序介紹那十幾個城市：東京、京都、大阪，時間夠的話再加上廣島。這樣做並沒有錯——那些地方確實值得一遊——但這也代表這個國家的大部分地區都被忽略了。在日本的中小型城市與鄉間旅行了大約[X年]之後，我漸漸厭倦了那些要嘛完全忽視這些地方、要嘛只用一段從觀光局新聞稿直接抄來的文字草草帶過的指南。&lt;/p&gt;
+&lt;p&gt;這個網站，就是我一直希望能存在的那種指南：具體、誠實，而且是由真正去過這些地方的人所寫。&lt;/p&gt;
+&lt;h2 id=&#34;這裡的指南有何不同&#34;&gt;這裡的指南有何不同&lt;/h2&gt;
+&lt;p&gt;本站介紹的每一個地方都是實際造訪過的——不是靠新聞稿或其他部落格間接查來的資料。具體來說：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;真實花費&lt;/strong&gt;，以日圓計算，是撰寫當下實際發生的費用——而不是從官方文宣中抄來的模糊區間&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;誠實的交通資訊&lt;/strong&gt;——電車實際要花多久、渡輪時刻表實際上是什麼樣子、計畫出狀況時會發生什麼事&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;連尷尬的部分也如實記錄&lt;/strong&gt;——如果我試飲順序選錯了、錯過了轉乘、或計畫全盤打亂，這些都會寫進文章裡，因為這遠比假裝每趟旅程都完美無缺來得有用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[這段落是實際背景資訊的預留位置——請填入你目前居住地、在日本旅行/居住的時間長短，以及你撰寫這些指南的資格等真實、可查證的內容。]&lt;/p&gt;
+&lt;h2 id=&#34;這個網站如何維護&#34;&gt;這個網站如何維護&lt;/h2&gt;
+&lt;p&gt;價格、營業時間與交通時刻表都會變動。當讀者回報，或透過再次造訪確認舊文章中的資訊已經過時，該篇文章就會被更正，而不是放著不管、任其過時。如果你發現有任何變動，&lt;a href=&#34;http://localhost:1313/zh-tw/contact/&#34;&gt;聯絡我們頁面&lt;/a&gt;是通知我們最快的方式。&lt;/p&gt;
+&lt;h2 id=&#34;語言&#34;&gt;語言&lt;/h2&gt;
+&lt;p&gt;本站主要為英語圈旅人撰寫，同時也提供韓文與繁體中文的翻譯指南。&lt;/p&gt;
+&lt;h2 id=&#34;關於本站的收益方式&#34;&gt;關於本站的收益方式&lt;/h2&gt;
+&lt;p&gt;本站參與包括Booking.com在內的聯盟行銷計畫，當你透過本站連結完成預訂時，我們可能會獲得少許佣金，且不會增加你的任何額外費用。文中的推薦並非付費置入——之所以介紹某間住宿或某項體驗，是因為它對該地區的旅人確實有用，而非因為有佣金合作關係。詳細內容請參閱&lt;a href=&#34;http://localhost:1313/zh-tw/privacy-policy/&#34;&gt;隱私權政策&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;聯絡我們&#34;&gt;聯絡我們&lt;/h2&gt;
+&lt;p&gt;有任何疑問、需要修正的資訊，或是你認為值得介紹的日本隱藏景點嗎？透過&lt;a href=&#34;http://localhost:1313/zh-tw/contact/&#34;&gt;聯絡我們頁面&lt;/a&gt;可以直接與我聯繫。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新幹線停靠站之外：新潟</title>
+      <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-niigata/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/beyond-shinkansen-niigata/</guid>
+      <description>大多數人搭乘上越新幹線經過新潟時，滿腦子只想著滑雪季。以下是你應該在稻田、清酒吧檯，以及一座幾乎沒人提起的島嶼下車的理由。</description>
+    </item>
     <item>
       <title>新幹線站之外：盛岡</title>
       <link>http://localhost:1313/zh-tw/posts/beyond-shinkansen-morioka/</link>
