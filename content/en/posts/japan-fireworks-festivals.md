@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/fireworks-cover.jpg"
   alt: "Japan fireworks festival over river at night"
+  caption: "Photo by [Sean Lim](https://unsplash.com/@seanlimm) on [Unsplash](https://unsplash.com/photos/8ydcorUiLY8)"
 ---
 
 Japan has over a thousand fireworks festivals every summer. Most of them are lovely: a warm evening, a river or bay, forty minutes of colour overhead, and everyone cycling home before ten. But a handful of Japanese hanabi events are something categorically different — events where the scale is genuinely overwhelming, the artistry is competitive and taken seriously as a craft, and the crowd of hundreds of thousands of people creates a collective experience that you simply can't replicate anywhere else.

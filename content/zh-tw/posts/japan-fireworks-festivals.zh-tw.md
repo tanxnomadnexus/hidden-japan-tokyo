@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/fireworks-cover.jpg"
   alt: "日本煙火祭典在夜空中綻放"
+  caption: "Photo by [Sean Lim](https://unsplash.com/@seanlimm) on [Unsplash](https://unsplash.com/photos/8ydcorUiLY8)"
 ---
 
 日本每年夏天舉辦超過一千場煙火祭典。大多數都很美好：溫暖的夜晚、河邊或海灣、四十分鐘的絢爛色彩在頭頂綻放，然後所有人在十點前騎腳踏車回家。但其中有幾場，是截然不同層次的存在——規模真正令人震撼、藝術性帶有競技精神且被嚴肅對待為一門工藝、數十萬人共同創造的集體體驗是在任何其他地方都無法複製的那種活動。

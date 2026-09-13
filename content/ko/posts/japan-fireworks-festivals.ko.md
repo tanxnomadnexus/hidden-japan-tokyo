@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/fireworks-cover.jpg"
   alt: "밤하늘에 펼쳐지는 일본 불꽃놀이 축제"
+  caption: "Photo by [Sean Lim](https://unsplash.com/@seanlimm) on [Unsplash](https://unsplash.com/photos/8ydcorUiLY8)"
 ---
 
 일본에는 매년 여름 천 개가 넘는 불꽃놀이 축제가 열린다. 대부분은 아름답다: 따뜻한 저녁, 강이나 만, 40분간 머리 위로 피어오르는 색채들, 그리고 10시 전에 자전거를 타고 집으로 돌아가는 사람들. 그러나 그 중 몇몇은 범주 자체가 다른 것들이다—규모가 진정으로 압도적이고, 예술성이 경쟁적이며 하나의 공예로 진지하게 여겨지며, 수십만 명의 군중이 만들어내는 집단적 경험은 다른 어디서도 재현할 수 없는 그런 행사들이다.
