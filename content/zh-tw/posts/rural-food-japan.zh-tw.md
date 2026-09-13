@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/food-cover.jpg"
   alt: "日本當地美食體驗"
+  caption: "Photo by [Perry Merrity II](https://unsplash.com/@prince_perry) on [Unsplash](https://unsplash.com/photos/HRIU6NKY8bw)"
 ---
 每個人抵達日本時，手上都拿著拉麵清單和壽司必吃清單，老實說，這兩份清單你都該認真吃過一遍。但真正會留在記憶裡的料理——那種幾個月後你還會跟家鄉朋友提起的料理——通常是你在某個沒有英文菜單、沒有Google評論、毃台後站著一位做了四十年同一道菜的老奶奶的地方，偶然發現的。
 這就是日本鄉間美食的特色：它完全取決於當地生長、游動或採集到的食材，而且幾乎不會以接近原貌的形式流傳到城市裡。以下是五種我想起頻率多到有點誇張的日本當地美食體驗，散布在鄉間各處，每一個都值得專程繞道前往。帶上現金、帶上耐心、再帶上好胃口。

@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/food-cover.jpg"
   alt: "Local Japanese food experience"
+  caption: "Photo by [Perry Merrity II](https://unsplash.com/@prince_perry) on [Unsplash](https://unsplash.com/photos/HRIU6NKY8bw)"
 ---
 Everyone arrives in Japan with a ramen list and a sushi bucket list, and honestly, you should eat your way through both. But the dishes that actually stick with you — the ones you find yourself describing to friends back home months later — are usually the ones you stumbled into somewhere with no English menu, no Google reviews, and a grandmother behind the counter who's been making the same dish for forty years.
 
