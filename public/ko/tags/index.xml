@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coastal</title>
+      <link>http://localhost:1313/ko/tags/coastal/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/coastal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Festivals</title>
+      <link>http://localhost:1313/ko/tags/festivals/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/festivals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/ko/tags/food/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kyushu</title>
+      <link>http://localhost:1313/ko/tags/kyushu/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/tags/kyushu/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Chubu</title>
       <link>http://localhost:1313/ko/tags/chubu/</link>
@@ -16,31 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Coastal</title>
-      <link>http://localhost:1313/ko/tags/coastal/</link>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/tags/coastal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>http://localhost:1313/ko/tags/food/</link>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/tags/food/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nature</title>
       <link>http://localhost:1313/ko/tags/nature/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/tags/nature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Festivals</title>
-      <link>http://localhost:1313/ko/tags/festivals/</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/tags/festivals/</guid>
       <description></description>
     </item>
     <item>
@@ -111,13 +118,6 @@
       <link>http://localhost:1313/ko/tags/hiking/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/tags/hiking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kyushu</title>
-      <link>http://localhost:1313/ko/tags/kyushu/</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/tags/kyushu/</guid>
       <description></description>
     </item>
     <item>

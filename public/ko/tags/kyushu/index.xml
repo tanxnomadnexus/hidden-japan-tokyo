@@ -6,8 +6,15 @@
     <description>Recent content in Kyushu on Hidden Japan Tokyo</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/ko/tags/kyushu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>신칸센 정차역 너머: 사가</title>
+      <link>http://localhost:1313/ko/posts/beyond-shinkansen-saga/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/posts/beyond-shinkansen-saga/</guid>
+      <description>규슈 신칸센은 신토스에 정차하지만, 거의 모든 사람이 내리지 않고 그대로 지나친다. 도자기 마을과 오징어 시장, 그리고 열기구로 가득한 하늘을 보러 내려야 하는 이유를 소개한다.</description>
+    </item>
     <item>
       <title>일본의 가장 아름다운 지역 열차 여행, 인파를 피해서</title>
       <link>http://localhost:1313/ko/posts/scenic-train-rides/</link>
