@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/kominka-cover.jpg"
   alt: "일본 전통 고민카 농가 외관"
+  caption: "Photo by [Laura Barry](https://unsplash.com/@laurabarry) on [Unsplash](https://unsplash.com/photos/ghQVShXFiOU)"
 ---
 
 일본 여행에는 잘 알려지지 않은 특별한 방식이 있다: 호텔 방도 아니고, 저녁 식사 시간과 공동 욕탕이 정해진 료칸도 아닌, 농가 한 채를 통째로 빌려 하룻밤을 보내는 것이다. 고민카(古民家)—말 그대로 '오래된 집'—에는 이로리(화로), 미닫이 장지문, 그리고 매미 소리가 들리는 정원이 있다. 직원도 없고, 정해진 일정도 없다. 오직 나와 집, 그리고 그 집이 자리한 시골 마을만 있을 뿐이다.

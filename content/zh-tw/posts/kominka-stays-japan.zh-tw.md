@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/kominka-cover.jpg"
   alt: "日本傳統古民家農舍外觀"
+  caption: "Photo by [Laura Barry](https://unsplash.com/@laurabarry) on [Unsplash](https://unsplash.com/photos/ghQVShXFiOU)"
 ---
 
 有一種日本旅行方式鮮少出現在行程規劃中：住進一棟完整的農舍，而不是飯店房間，也不是有固定晚餐時間和共用浴池的旅館。古民家——字面意思是「老房子」——有著地爐（囲炉裏）、拉門、以及能聽見蟬鳴的庭院。沒有服務人員在旁，沒有固定行程。只有你、這棟房子，以及它所在的那個鄉下小鎮。

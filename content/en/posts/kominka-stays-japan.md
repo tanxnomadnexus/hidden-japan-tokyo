@@ -7,6 +7,7 @@ draft: false
 cover:
   image: "images/kominka-cover.jpg"
   alt: "Traditional Japanese kominka farmhouse exterior"
+  caption: "Photo by [Laura Barry](https://unsplash.com/@laurabarry) on [Unsplash](https://unsplash.com/photos/ghQVShXFiOU)"
 ---
 
 There's a particular kind of Japan trip that doesn't show up in most itineraries: spending a night not in a hotel room, not even in a ryokan with its set dinner times and shared baths, but in an entire farmhouse to yourself. A kominka — literally "old house" — with a sunken hearth, sliding paper doors, and a garden you can hear cicadas in. No staff hovering nearby, no fixed schedule. Just you, the house, and whatever rural town it happens to sit in.
